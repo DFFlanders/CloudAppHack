@@ -1,13 +1,3 @@
-
-- [ ] Organise fortnightly meetings to assure everyone is on task.
-- [ ] Play positive, be a helper to everyone (not a boss)
-- [ ] Answer questions daily
-- [ ] Promote the event at local meetups
-
-
-- [ ] Thank yous to everyone, especially your event organisers and mentors
-- 
-
 ## Lead Hacker
 
 The 'lead hacker' is reponsible for the overall success of the event.  You should be a well organised people, able to kindly delegate tasks and ask for help. You will have run events before with an understanding for basic community principles: especially inclusion, kindness and a steady hand when things get stressful.
@@ -49,8 +39,8 @@ Tasks to achieve during the event:
 - [ ] 4th
 - [ ] 5th
 - [ ] 6th
-- [ ] 7th
-- [ ] 8th
+- [ ] Announce when the next CloudApphack is likey to happen.
+- [ ] Thank yous to your amazing event organisers, mentors, sponsors and participants <-- cannot beging to express how important this is!
 
 ### Post Event Checklist
 
@@ -62,7 +52,7 @@ Taks to achieve after the event:
 - [ ] 5th
 - [ ] 6th
 - [ ] 7th
-- [ ] 8th
+- [ ] Confirm date of next hackathon
 
 ## Additional Resources, Examples and Precedents
 
