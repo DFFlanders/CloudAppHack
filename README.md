@@ -2,7 +2,7 @@
 
 This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for yur local community[1]:
 
- 1. Overall cloud app community [“lead hacker”] (lead-hacker.md)
+ 1. Overall cloud app community [“lead hacker”] (lead_hacker.md)
  2. Pre training “sensei”
  3. Mentors + team helpers “wrangler”
  4. Sponsorship “czar”
