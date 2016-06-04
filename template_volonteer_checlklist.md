@@ -60,3 +60,6 @@ Taks to achieve after the event:
  * Some precedents of how other open communities do this.
  * A helpful person worth contacting and having a chat.
  * Why use checklists?  Humans are not great at remembering stuff, this is how mistakes happen, people forget things when they are in stressful situations (like events), checklists are great for focusing the mind and result in significant productivity gains.  Read more about this in a book caled, 'The Checklist Manifesto'.
+
+Footnotes:
+[1]= these checklists are intentionally created in github so you can take advantage of the GitHub versioning model which allows you to suggest edits and submit them back to the community for reuse.  For instructions on how to branch and submit a pull request please see: https://guides.github.com/activities/hello-world/
