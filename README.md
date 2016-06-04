@@ -1,6 +1,6 @@
 # CloudAppHack
 
-This repository is a repository of checklists for anyone organising an open cloud application hackathon[1].
+This repository is a set of checklists for anyone organising an open cloud application hackathon[1].
 
 [![Read this quick brochure before you get started in organising your hackathon](https://pbs.twimg.com/media/CkFOue5WYAAB1pK.jpg)](https://docs.google.com/presentation/d/1dK7d3A2pQ9iv3VxoVvAF1x4m7d10cZUc-q4F2e95GgQ/pub?start=true&loop=true&delayms=3000)
 
