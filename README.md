@@ -1,4 +1,4 @@
-# CloudAppHack
+# Welcome to #CloudAppHack
 
 This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for your local community[1]:
 
