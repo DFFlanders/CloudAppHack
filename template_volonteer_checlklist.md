@@ -10,7 +10,7 @@ Your objective as the "pre-training coordinator" (if you so choose to accept the
  * 2nd 
  * 3rd
 
-## Checklists for <ROLE>
+## Checklists for ROLE
 The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks yourself and we would highly encourage you to create your own checklists and share them back with the community.
 
 Are you ready to help make your event take off...?
