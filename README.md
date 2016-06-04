@@ -1,17 +1,17 @@
 # CloudAppHack
 
-This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for yur local community[1]:
+This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for your local community[1]:
 
- 1. Overall cloud app community [“lead hacker”] (lead_hacker.md)
- 2. Pre training “sensei”
- 3. Mentors + team helpers “wrangler”
- 4. Sponsorship “czar”
- 5. Team registration “monarch”
- 6. Flyers, stickers, signage and marketing “guru”
- 7. Cloud + wifi + power “magician”
- 8. Venue + food + logistics “angel”
- 9. Lead judge (and advocacy) “chair”
- 10. Summit & post event community “champion”
+ 1. Overall cloud app community [“lead hacker”] (lead_hacker_checklists.md)
+ 2. Pre training [“sensei”](pre-training_sensei_checklists.md)
+ 3. Mentors + team helpers [“wrangler”](mentors_wrangler_checklist.md)
+ 4. Sponsorship [“czar”](sponsorship_czar_checklist.md)
+ 5. Team registration [“monarch”](team_registration_monarch_checklist.md)
+ 6. Flyers, stickers, signage and marketing [“guru”](marketting_guru_checklist.md))
+ 7. Infrastructure (cloud + wifi + power) [“angel”](infrastructure_angel_checklist.md)
+ 8. Venue + food + logistics [“magician”](venue_magician_checklist.md)
+ 9. Lead judge (and advocacy) [“chair”](judges_chair_checklist.md)
+ 10. Summit & post event community [“champion”](community_champion_checklist.md)
 
 [![Read this quick brochure before you get started in organising your hackathon](https://pbs.twimg.com/media/CkFOue5WYAAB1pK.jpg)](https://docs.google.com/presentation/d/1dK7d3A2pQ9iv3VxoVvAF1x4m7d10cZUc-q4F2e95GgQ/pub?start=true&loop=true&delayms=3000)
 
