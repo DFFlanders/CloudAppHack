@@ -1,4 +1,4 @@
-# Description Pre-Hackathon Application Trianing Coordinator
+# Description Pre-Hackathon Application Trainning Coordinator
 
 Your objective as the "pre-training coordinator" (if you choose to accept them...[1]):
  * Recruit teams in the build-up to the hackathon, encouraging well rounded teams including CEO, CTO, AppDev, DevOpps, UX, CMO, etc.
