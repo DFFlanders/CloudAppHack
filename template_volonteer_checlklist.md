@@ -1,5 +1,5 @@
 This file is the teamplate for event volonteer checklists.  
-Please feel free to branch and suggest pull edits so we can continue to improve our event checklists.
+Please feel free to branch and suggest pull edits so we can continue to improve the communities event checklists.
 
 # TEMPLATE FOR EVENT (VOLONTEER) ORGANISERS CHECKLISTS
 
@@ -51,3 +51,12 @@ Taks to achieve after the event:
 - [ ] 6th
 - [ ] 7th
 - [ ] 8th
+
+## Additional Resources, Examples and Precedents
+
+ * Example from Taipei
+ * Example from Guadalajara
+ * Interesting resource worth reading.
+ * Some precedents of how other open communities do this.
+ * A helpful person worth contacting and having a chat.
+ * Why use checklists?  Humans are not great at remembering stuff, this is how mistakes happen, people forget things when they are in stressful situations (like events), checklists are great for focusing the mind and result in significant productivity gains.  Read more about this in a book caled, 'The Checklist Manifesto'.
