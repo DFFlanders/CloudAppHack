@@ -49,7 +49,7 @@ Flanders@OpenStack.org
 		<meta name="text:Nav Link 6 Title"          content="" />
         
 	<!-- Home -->
-		<meta name="text:Home Welcome Text"         content="Agiveo- Bootstrap powered Tumblr Theme" />
+		<meta name="text:Home Welcome Text"         content="OpenStack CSS Template Tumblr" />
 		<meta name="image:Home Background"          content="http://static.tumblr.com/9voxwm9/hpLmzw6vu/home.jpg"/>
 
 	<!-- Services -->
@@ -73,17 +73,17 @@ Flanders@OpenStack.org
 	    <meta name="image:About Us Image"          	content="http://static.tumblr.com/9voxwm9/w9tn0bjk6/image.jpg" />
 	    <meta name="text:About Us Text"            	content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
 	    <!-- Social Links -->
-	    <meta name="text:Facebook ID"               content="pages/Themequest/487750734663961" />
-	    <meta name="text:Twitter ID"                content="themequest" />
-	    <meta name="text:LinkedIn ID"               content="" />
-	    <meta name="text:Youtube Channel"           content="" />
-	    <meta name="text:Tumblr ID"                 content="agiveotheme" />
-	    <meta name="text:Instagram ID"              content="" />
+	    <meta name="text:Facebook ID"               content="OpenStack" />
+	    <meta name="text:Twitter ID"                content="OpenStack" />
+	    <meta name="text:LinkedIn ID"               content="OpenStack" />
+	    <meta name="text:Youtube Channel"           content="OpenStack" />
+	    <meta name="text:Tumblr ID"                 content="OpenStack" />
+	    <meta name="text:Instagram ID"              content="OpenStack" />
 	<!-- Posts -->
 	    <!-- After Post -->
 		<meta name="if:Enable Disqus"               content="1" />
 		<meta name="if:Enable PostNotes"            content="1" />
-		<meta name="text:Disqus Shortname"          content="Agiveo" />
+		<meta name="text:Disqus Shortname"          content="OpenStack" />
 	<!-- Contact Us -->
 	    <meta name="if:Enable Contact Us Section"   content="1" />
 	    <meta name="if:Enable Contact Us Form"      content="1" />
@@ -91,8 +91,8 @@ Flanders@OpenStack.org
     	<meta name="image:Separator 1 BG"           content="http://i.imgur.com/YtCbtZw.jpg"/>
     	<meta name="image:Separator 2 BG"           content="http://i.imgur.com/YtCbtZw.jpg"/>
     	<meta name="text:Mailchimp Form Action"     content="http://themequest.us3.list-manage1.com/subscribe/post?u=8da360c3d60c708a7d69f010c&amp;id=a507307078" />
-    	<meta name="text:Separator Quote"           content="One Does not Simply Walk into Mordor" />
-    	<meta name="text:Separator Quote Source"    content="The Lord of the Rings" />
+    	<meta name="text:Separator Quote"           content="Don't let your cloud application be locked-in to just one cloud operating system, demand that it can work in open frameworks cross cloud." />
+    	<meta name="text:Separator Quote Source"    content="Dumbledore" />
 	<!-- Styles
   ================================================== -->
 	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
