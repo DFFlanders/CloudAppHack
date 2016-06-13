@@ -1,0 +1,1570 @@
+
+<!-- 
+Flanders@OpenStack.org
+-->
+
+
+<html>
+<head>
+	<title>{Title} {block:SearchPage}- {lang:Search results for SearchQuery}{/block:SearchPage}{block:PostSummary}- {PostSummary}{/block:PostSummary}{block:IndexPage}- {Description}{/block:IndexPage}</title>
+	{block:Description}
+		<meta name="description" content="{MetaDescription}">
+	{/block:Description}
+	<link rel="shortcut icon" href="{Favicon}">
+	<!-- Meta
+  ================================================== -->
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+	<!-- Options -->
+	<!-- Colors -->
+	    <meta name="if:Enable Animation"            content="1" />
+		<!-- Backgrounds -->	
+		<meta name="color:ThemeColor"               content="#FF7200" />
+		<meta name="color:TextBaseColor"            content="#999999" />
+		<meta name="color:ServiceSectionBG"         content="#FFFFFF" />
+		<meta name="color:ServiceSectionText"       content="#999999" />
+		<meta name="color:AboutUsSectionBG"         content="#E8E8E8" />
+		<meta name="color:AboutUsSectionText"       content="#999999" />
+		<meta name="color:PostsSectionBG"           content="#FFFFFF" />
+		<meta name="color:PostsSectionText"         content="#999999" />
+		<meta name="color:ContactUsSectionBG"       content="#FFFFFF" />
+		<meta name="color:ContactUsSectionText"     content="#999999" />
+		<meta name="color:Button Link Color"        content="#FFFFFF" />
+		<!-- Fonts Color -->
+
+	<!-- Nav Options -->
+	    <meta name="if:Enable Sticky Nav"           content="1" />
+		<meta name="text:Nav Link 1 Title"          content="home" />
+		<meta name="text:Nav Link 2 Title"          content="community" />
+		<meta name="text:Nav Link 3 Title"          content="about" />
+		<meta name="text:Nav Link 4 Title"          content="news" />
+		<meta name="text:Nav Link 4 Title"          content="register" />
+
+		<meta name="if:Enable Additional Nav Items" content="0" />
+		<meta name="text:Nav Link 5 URL"            content="" />
+		<meta name="text:Nav Link 5 Title"          content="" />
+		<meta name="text:Nav Link 6 URL"            content="" />
+		<meta name="text:Nav Link 6 Title"          content="" />
+        
+	<!-- Home -->
+		<meta name="text:Home Welcome Text"         content="Agiveo- Bootstrap powered Tumblr Theme" />
+		<meta name="image:Home Background"          content="http://static.tumblr.com/9voxwm9/hpLmzw6vu/home.jpg"/>
+
+	<!-- Services -->
+	    <meta name="if:Enable Service Section"      content="1" />
+	    <meta name="text:Service 1 Glyphicon ID"    content="glyphicon-fire" />
+	    <meta name="text:Service 2 Glyphicon ID"    content="glyphicon-tags" />
+	    <meta name="text:Service 3 Glyphicon ID"    content="glyphicon-hd-video" />
+	    <meta name="text:Service 4 Glyphicon ID"    content="glyphicon-cloud" />
+	    <meta name="text:Service 5 Glyphicon ID"    content="glyphicon-fire" />
+	    <meta name="text:Service 6 Glyphicon ID"    content="glyphicon-thumbs-up" />
+	    
+	    <meta name="text:Service 1 Text"            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." />
+	    <meta name="text:Service 2 Text"            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." />
+	    <meta name="text:Service 3 Text"            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." />
+	    <meta name="text:Service 4 Text"            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." />
+	    <meta name="text:Service 5 Text"            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." />
+	    <meta name="text:Service 6 Text"            content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat." />
+	    
+	<!-- About Us -->
+	    <meta name="if:Enable About Us Section"     content="1" />
+	    <meta name="image:About Us Image"          	content="http://static.tumblr.com/9voxwm9/w9tn0bjk6/image.jpg" />
+	    <meta name="text:About Us Text"            	content="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." />
+	    <!-- Social Links -->
+	    <meta name="text:Facebook ID"               content="pages/Themequest/487750734663961" />
+	    <meta name="text:Twitter ID"                content="themequest" />
+	    <meta name="text:LinkedIn ID"               content="" />
+	    <meta name="text:Youtube Channel"           content="" />
+	    <meta name="text:Tumblr ID"                 content="agiveotheme" />
+	    <meta name="text:Instagram ID"              content="" />
+	<!-- Posts -->
+	    <!-- After Post -->
+		<meta name="if:Enable Disqus"               content="1" />
+		<meta name="if:Enable PostNotes"            content="1" />
+		<meta name="text:Disqus Shortname"          content="Agiveo" />
+	<!-- Contact Us -->
+	    <meta name="if:Enable Contact Us Section"   content="1" />
+	    <meta name="if:Enable Contact Us Form"      content="1" />
+	<!-- Separator -->
+    	<meta name="image:Separator 1 BG"           content="http://i.imgur.com/YtCbtZw.jpg"/>
+    	<meta name="image:Separator 2 BG"           content="http://i.imgur.com/YtCbtZw.jpg"/>
+    	<meta name="text:Mailchimp Form Action"     content="http://themequest.us3.list-manage1.com/subscribe/post?u=8da360c3d60c708a7d69f010c&amp;id=a507307078" />
+    	<meta name="text:Separator Quote"           content="One Does not Simply Walk into Mordor" />
+    	<meta name="text:Separator Quote Source"    content="The Lord of the Rings" />
+	<!-- Styles
+  ================================================== -->
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css">
+	<link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+	<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap-theme.min.css">
+	<!-- Fonts
+  ================================================== -->
+	<link href='http://fonts.googleapis.com/css?family=Roboto:400,500,300' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="http://static.tumblr.com/g8b5dgd/Hqamf0qrr/fonts.css" type="text/css">
+	<!-- Scripts
+  ================================================== -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	{block:IfEnableAnimation}
+		<script type="text/javascript" src="http://static.tumblr.com/9voxwm9/zJymzrdms/uikit.min.js"></script>
+	{/block:IfEnableAnimation}
+
+	{block:IfEnableStickyNav}
+	<script>
+	  $(document).ready(function(){
+	    $("#menu").sticky({topSpacing:0});
+	  });
+	</script>
+	{/block:IfEnableStickyNav}
+
+	<!-- Style
+  ================================================== -->
+<style>
+html, body{
+	width:100%;
+	height:100%;
+	font-size:12px;
+}
+body{
+	margin: 0;
+  padding: 0;
+  line-height:1.75;
+  overflow-x:hidden;
+}
+/* ===== Fonts ===== */
+h1, h2, h3, h4{	
+  text-transform:uppercase;
+}
+h1{
+	font-size:5.5em;
+	letter-spacing:3px;
+	margin-bottom: 5px;
+	
+}
+h2{
+	font-size:4.6em;
+	letter-spacing:3px;
+	color:#999999;
+	margin-bottom: 20px;
+}
+h3{
+	font-size:3.5em;
+}
+p,a,b,input, textarea, blockquote{font-size:1.4em;}
+a{color:{color:ThemeColor};}
+i{font-size:3em;color:#999999;}
+i:hover{-webkit-animation-name: spin;
+    	-webkit-animation-duration: 400ms;}
+ul{padding:0;margin:0;}
+li{list-style:none; display:inline-block;margin:0px 2px;}
+.glyphicon{font-size:6em;color:#999999;margin:20px 0px;}
+
+/* ===== Decorations ===== */
+	hr {
+		background-color:#e3e3e3;
+		height:1px;
+		width:100%;
+		border:none!important;
+	}
+	.border {
+		background: none repeat scroll 0 0 {color:ThemeColor};
+		display: block;
+		height: 2px;
+		margin: 0 auto;
+		width: 100px;
+		margin-bottom:40px;
+	}
+  .orange{
+    color:{color:ThemeColor};
+  }
+  .black{
+    color:#000;
+  }
+  .no-decoration{
+      text-decoration:none!important;
+  }
+  .clearfix{
+      clear:both;
+  }
+/* ===== Base =====  */
+section{
+	height:auto;
+	min-height:100%;
+}
+#about:before{
+	height:50px;
+}
+	.padding-top{
+		padding-top:60px!important;
+	}
+	.container{
+		max-width:1170px;
+		padding:15px 15px 45px 15px;
+	}
+	.small-width {
+		max-width:940px;
+	}
+	.mid-width{
+		max-width:960px;
+	}
+	.full-width{
+		max-width:100%;
+	}
+	.no-padding {
+		padding:0!important;
+	}
+	.left {
+		float: left;
+	}
+	.right {
+		float: right;
+	}	
+	.centered{
+		text-align:center;
+	}
+	.vertical-align{
+	    vertical-align:middle;
+	}
+
+/* ===== Menu ===== */
+#menu{
+	width: 100%;
+    min-height: 25px;
+    background-color: #000;
+    opacity: 0.9;
+    z-index: 999;
+    padding: 0px 15px;
+}
+	#menu .container{
+		padding:5px 5px 5px 5px!important;
+	}
+  .navbar{
+    border-radius:0;
+  }
+#menu ul{
+	margin:0;
+	height:100%;
+}
+#menu .logo{
+	font-size:30px;
+	margin:0;
+	padding:0;
+	text-transform:uppercase;
+}
+#menu li a, #menu a{
+	color: #AD4A32;
+    font-size: 1.2em;
+    text-decoration: none;
+    text-shadow: none;
+}
+
+#menu li a:hover, #menu a:hover{
+	    font-weight: bold;
+	    color:#fff,
+	    background-color:#AD4A32;
+}
+    .navbar-toggle {
+        padding:10px 0px;
+        vertical-align:center;
+    }
+        .navbar-toggle span{
+            background-color:#999999;
+        }
+/* ===== Separators ===== */
+.separator{
+	height:auto;
+	background-attachment:fixed!important;
+	background-size:cover;
+}
+#separator-1{
+    background:url({image:separator 1 BG}) no-repeat;
+    background-size:cover;
+}
+#separator-2{
+    background:url({image:separator 2 BG}) no-repeat;
+    background-size:cover;
+}
+    #separator-2 .padding-top{
+        padding-top:10%!important;
+    }
+	.separator .container{
+		max-width:800px;
+		padding:10% 0%;
+	}
+	.mask{
+		width:100%;
+		height:100%;
+		min-height:100%;
+		z-index:100;
+		background:rgba(0,0,0,0.7);
+	}
+	.separator h3, h4{
+		color:#fff;
+		text-align:center;
+	}
+	.separator h4, em{
+	    font-size:2.5em;
+	}
+	.separator em{
+	    color:{color:ThemeColor};
+	}
+	/* Form */
+	.subscription-form{
+		height:50px;
+	}
+	.subscription-form input{
+		width:100%;
+		height:100%;
+		padding:10px;
+		font-size:1.5em;
+		color:{color:Button Link Color};
+	}
+	.subscription-form .text{
+		background:rgba(0,0,0,0.5);
+		border:none;
+		color:#FFF;
+	}
+	.subscription-form .submit{
+		background-color:{color:ThemeColor};
+		border:none;
+        outline:none;
+	}
+	
+/* ===== Sections ===== */
+	/* Home */
+		#home{
+			background:url({image:Home Background}) no-repeat;
+			background-attachment:fixed!important;
+			background-size:cover;
+			height:100%;
+		}	
+			#home .container{
+				width:100%;
+				height:100%;
+				left:0; right:0;
+				position:absolute;
+				display:table;
+			}
+			#home h2{
+				color:#FFF;
+
+			}
+			.div-align-center {
+				margin: auto;
+				top: 0; left: 0; bottom: 0; right: 0;
+				display:table-cell;
+				vertical-align: middle;
+			}
+			#home .mask{
+			    min-height:100%;
+			}
+	/* Services */
+		#services{
+			text-align:center;
+			background-color:{color:ServiceSectionBG};
+		}
+		#services p{
+			text-align:justify;
+		}
+	/* About Us */
+		#about{
+			background-color:{color:AboutUsSectionBG};
+		}
+		#about p{
+			text-align:justify;
+			color:{color:AboutUsSectionText};
+		}
+		#about i{margin-top:10px;
+		    color:{color:AboutUsSectionText};
+		}
+	/* Posts */
+	    #posts{
+	        background-color:{color:PostsSectionBG};
+	    }
+		/*Article*/
+		article {
+		    padding: 3%;
+            margin:10px 0px;
+            color:{color:PostsSectionText};
+		}
+		.chat span {
+		    float: left;
+		    margin-right: 1%;
+		}
+    .post_title{
+      font-size:2.5em;
+      text-transform:uppercase;
+    }
+			/*Metadata*/
+			.metadata {
+			    display: inline-block;
+			    width: 100%;
+          font-size:1.2em;
+			}
+        .metadata a{
+          color:{color:ThemeColor};
+        }
+			.reblogged {
+			    float: right;
+			}
+        /* icons */
+        .icon-heart:before { color:{color:ThemeColor}; } /* '♥' */
+        .icon-cancel:before { color:{color:ThemeColor}; } /* '✕' */
+        .icon-chat:before { color:{color:ThemeColor}; } /* '' */
+        .icon-left-open-mini:before { color:{color:ThemeColor}; } /* '' */
+        .icon-right-open-mini:before { color:{color:ThemeColor}; } /* '' */
+        .icon-clock:before { color:#000; } /* '\1f554' */       
+			/* Tags and notes */
+			#tags, nav ul, .chat ul {
+			    list-style: none;
+			    list-style-image: none;
+			    margin: 0;
+			    padding: 0;
+			}
+			#tags li {
+			    float: left;
+			    margin-right: 1%;
+			}
+			.notes {
+			    clear: both;
+			    padding: 0;
+			}
+		/* Text */
+		
+		/* Audio */
+		.post-audio .player {
+		margin-bottom: 30px;
+    	}
+    	.post-audio .player iframe {
+    		width: 100%;
+    		-moz-box-sizing: border-box;
+    		box-sizing: border-box;
+    		border: 2px solid {color:ThemeColor};
+    		border-radius: 6px;
+    	}
+    	.post-audio iframe.spotify_audio_player {
+    		-webkit-border-radius: 0px;
+    		-moz-border-radius: 0px;
+    		border-radius: 0px;	
+    		height: 80px;
+    		border: none;
+    	}
+    	.post-audio iframe.soundcloud_audio_player {
+    		height: 170px;
+    		width: 100%;
+    	}
+    	.post-audio iframe.tumblr_audio_player  {
+    		height: auto;
+    		width: 100%;
+    	}
+    	.post-audio .caption {
+    		margin: 0 0 30px 0;
+    	}
+		/* Link */
+		.link-box{
+		    width:100%;
+		    height:auto;
+		    background-color:{color:ThemeColor};
+		    color:#FFF;
+		    padding:25px;
+		}
+		.link-box h3{
+		    text-align:center;
+		}
+		.link{
+		    display:table-cell;
+		    vertical-align:middle;
+		    text-align:center;
+		}
+        .link-box blockquote{
+            color:#FFF;
+        }
+		/* Photo */
+		.full-width{
+		    max-width:100%;
+		}
+		
+		/* Chat */
+		chat-box {
+		display: block;
+		color: #34495e;
+		margin: 0 0 30px 0;
+    	}
+    	.chat-box li {
+    		display: block;
+    		padding: 15px;
+    		font-size: 1.6em;
+    	}
+
+    	.chat-box li span {
+    		padding: 0 30px 0 0;
+    		color: #7f8c8d;
+    	}
+    	.chat-box .odd {
+    		background-color: {color:ThemeColor};
+    		color:#FFFFFF;
+    	}
+    	    .chat-box .odd span{
+    	        color:#FFFFFF;
+    	    }
+    	.chat-box .even {
+    		background-color: #FFFFFF;
+    		color:{color:ThemeColor};
+    	}
+    	    .chat-box .even .span{
+    	        color:{color:ThemeColor};
+    	    }
+        /* Video */
+        .video-player iframe{
+            min-width:100%;
+        }
+        
+    /* Pagination */
+    #pagination{
+        width:100%;
+        padding:10px;
+    }
+    #pagination a{
+        color:{color:Button Link Color};
+    }
+    .nextpage, .previouspage{
+        background-color:{color:Theme Color};
+        padding:10px;
+        font-size:1.6em;
+    }
+	/* Permalink */
+	#after_post{
+	    width:100%;
+	}
+	#disqus_thread{
+	    margin-left:15px;
+	}
+	    /* Tags */
+	    .tags a{
+	        color:{color:ThemeColor};
+	        font-size:1.4em;
+	    }
+	/* Contact Us */
+		#contact{
+			background-color:{color:ContactUsSectionBG};
+			width:100%;
+		}
+		#contact h2, #contact p{color:{color:ContactUsSectionText}; text-align:center;}
+		#contact .container{
+			position:relative;
+			height:100%;
+		}
+      /* Modal */
+      .modal-content{
+        border-radius:0;
+      }
+      .modal-body, .modal-footer{
+        width:100%;
+      }
+      /* Form */
+      #contact_form input, #contact_form textarea{
+        width:100%;
+        height:40px;
+        margin-top:10px;
+        background-color:#000;
+        border:none;
+        padding:15px;
+      }
+      #contact_form textarea{
+        height:200px;
+      }
+		/* Footer */
+		#footer{
+			font-size:1.2em;
+			width:100%;
+			bottom:0;
+			height:50px;
+			position:relative;
+			vertical-align:bottom;
+		}
+		#footer p, a{
+			color:#999999;
+			text-align:center;
+			font-size:1.0em;
+		}
+
+/* After Post */
+#notes ol{
+    width:100%;
+    margin-bottom: 50px;
+}
+#notes ol li{
+    width:100%;
+    margin-bottom: 10px;
+}
+#notes ol li span a{
+        color:#999999;
+}
+#notes ol li blockquote a{
+    color:#999999;
+    font-size:1.4em;
+}
+
+	#notes span {
+		line-height: 32px;
+		vertical-align: middle;
+		margin-left: 10px;
+	}
+	#notes .avatar{
+		width: 32px;
+		height: 32px;
+		vertical-align: middle;
+	}	
+/* Animations */
+/* Spin Animation */
+		@-moz-keyframes spin {
+		    from { -moz-transform: rotate(0deg); }
+		    to { -moz-transform: rotate(360deg); }
+		}
+		@-webkit-keyframes spin {
+		    from { -webkit-transform: rotate(0deg); }
+		    to { -webkit-transform: rotate(360deg); }
+		}
+		@keyframes spin {
+		    from {transform:rotate(0deg);}
+		    to {transform:rotate(360deg);}
+		}
+
+
+{block:IfEnableAnimation}
+/* UIKIT */
+/* ========================================================================
+   Component: Animation
+ ========================================================================== */
+[class*='uk-animation-'] {
+  -webkit-animation-duration: 0.5s;
+  animation-duration: 0.5s;
+  -webkit-animation-timing-function: ease-out;
+  animation-timing-function: ease-out;
+  -webkit-animation-fill-mode: both;
+  animation-fill-mode: both;
+}
+/* Hide animated element if scrollspy is used */
+[data-uk-scrollspy*='uk-animation-'] {
+  opacity: 0;
+}
+/*
+ * Fade
+ */
+.uk-animation-fade {
+  -webkit-animation-name: uk-fade;
+  animation-name: uk-fade;
+  -webkit-animation-duration: 0.8s;
+  animation-duration: 0.8s;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+}
+/*
+ * Scale
+ */
+.uk-animation-scale-up {
+  -webkit-animation-name: uk-scale-up;
+  animation-name: uk-scale-up;
+}
+.uk-animation-scale-down {
+  -webkit-animation-name: uk-scale-down;
+  animation-name: uk-scale-down;
+}
+/*
+ * Slide
+ */
+.uk-animation-slide-top {
+  -webkit-animation-name: uk-slide-top;
+  animation-name: uk-slide-top;
+}
+.uk-animation-slide-bottom {
+  -webkit-animation-name: uk-slide-bottom;
+  animation-name: uk-slide-bottom;
+}
+.uk-animation-slide-left {
+  -webkit-animation-name: uk-slide-left;
+  animation-name: uk-slide-left;
+}
+.uk-animation-slide-right {
+  -webkit-animation-name: uk-slide-right;
+  animation-name: uk-slide-right;
+}
+/*
+ * Shake
+ */
+.uk-animation-shake {
+  -webkit-animation-name: uk-shake;
+  animation-name: uk-shake;
+}
+/* Modifiers
+ ========================================================================== */
+.uk-animation-reverse {
+  -webkit-animation-direction: reverse;
+  animation-direction: reverse;
+}
+/* Keyframes
+ ========================================================================== */
+/*
+ * Fade
+ */
+@-webkit-keyframes uk-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+@keyframes uk-fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+/*
+ * Scale up
+ */
+@-webkit-keyframes uk-scale-up {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(0.2);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+  }
+}
+@keyframes uk-scale-up {
+  0% {
+    opacity: 0;
+    transform: scale(0.2);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+/*
+ * Scale down
+ */
+@-webkit-keyframes uk-scale-down {
+  0% {
+    opacity: 0;
+    -webkit-transform: scale(1.8);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: scale(1);
+  }
+}
+@keyframes uk-scale-down {
+  0% {
+    opacity: 0;
+    transform: scale(1.8);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+/*
+ * Slide top
+ */
+@-webkit-keyframes uk-slide-top {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-100%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes uk-slide-top {
+  0% {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/*
+ * Slide bottom
+ */
+@-webkit-keyframes uk-slide-bottom {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(100%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes uk-slide-bottom {
+  0% {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/*
+ * Slide left
+ */
+@-webkit-keyframes uk-slide-left {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(-100%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+  }
+}
+@keyframes uk-slide-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+/*
+ * Slide right
+ */
+@-webkit-keyframes uk-slide-right {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateX(100%);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateX(0);
+  }
+}
+@keyframes uk-slide-right {
+  0% {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+/*
+ * Shake
+ */
+@-webkit-keyframes uk-shake {
+  0%,
+  100% {
+    -webkit-transform: translateX(0);
+  }
+  10% {
+    -webkit-transform: translateX(-9px);
+  }
+  20% {
+    -webkit-transform: translateX(8px);
+  }
+  30% {
+    -webkit-transform: translateX(-7px);
+  }
+  40% {
+    -webkit-transform: translateX(6px);
+  }
+  50% {
+    -webkit-transform: translateX(-5px);
+  }
+  60% {
+    -webkit-transform: translateX(4px);
+  }
+  70% {
+    -webkit-transform: translateX(-3px);
+  }
+  80% {
+    -webkit-transform: translateX(2px);
+  }
+  90% {
+    -webkit-transform: translateX(-1px);
+  }
+}
+@keyframes uk-shake {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  10% {
+    transform: translateX(-9px);
+  }
+  20% {
+    transform: translateX(8px);
+  }
+  30% {
+    transform: translateX(-7px);
+  }
+  40% {
+    transform: translateX(6px);
+  }
+  50% {
+    transform: translateX(-5px);
+  }
+  60% {
+    transform: translateX(4px);
+  }
+  70% {
+    transform: translateX(-3px);
+  }
+  80% {
+    transform: translateX(2px);
+  }
+  90% {
+    transform: translateX(-1px);
+  }
+}
+/*
+ * Slide top fixed
+ */
+@-webkit-keyframes uk-slide-top-fixed {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes uk-slide-top-fixed {
+  0% {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/*
+ * Slide bottom fixed
+ */
+@-webkit-keyframes uk-slide-bottom-fixed {
+  0% {
+    opacity: 0;
+    -webkit-transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    -webkit-transform: translateY(0);
+  }
+}
+@keyframes uk-slide-bottom-fixed {
+  0% {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+/*
+ * Spin
+ */
+@-webkit-keyframes uk-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+  }
+}
+@keyframes uk-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(359deg);
+  }
+}
+{/block:IfEnableAnimation}
+
+/*Style framework*/
+
+.frm-btn{
+    border: 4px solid #AD4A32;
+    padding: 5px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.frm-btn:hover{
+    background-color: #AD4A32;
+}
+
+.frm-btn a:hover{
+   color: #fff;
+    font-size: 18px;
+    text-decoration:none;
+}
+
+.frm-btn a{
+   color: #fff;
+   font-size: 18px;
+   text-decoration:none;
+}
+
+.registrate{
+    bottom: 20px;
+    text-align: center;
+}
+
+.dudas{
+    color: #fff;
+    font-size: 16px;
+    margin-top: 5px;
+}
+.frm-link{
+    color: #AD4A32;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+.frml-link:hover{
+    font-weight: bold ¡important;
+    text-decoration: none ¡important;
+     color: #AD4A32 ¡important;
+}
+
+.registrate-btn{
+    margin: auto;
+    width: 10%;
+}
+
+.frm-subtitle{
+    color: #383838;
+    text-transform: none;
+        font-size: 24px;
+}
+
+.frm-section-title{
+       background-color: #AD4A32;
+    color: #fff;
+    font-size: 28px;
+    text-align: center;
+}
+
+.logo{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.frm-label{
+    font-size: 28px;
+    font-weight: normal;
+}
+.add-margin-top{
+        margin-top: 30px;
+}
+.frm-mid{
+        padding: 15px 15px 15px 15px;
+}
+
+</style>
+
+</head>
+<body>
+
+<header>
+<div id="menu" class="navbar nav" role="navigation">
+			<div class="">
+					      
+                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						<ul class="nav navbar-nav navbar-right">
+							<li>
+							<a href="{block:IndexPage}#home{/block:IndexPage}{block:PermalinkPage}/{/block:PermalinkPage}" data-uk-smooth-scroll>{text:Nav Link 1 Title}</a>
+							    
+							</li>
+							
+							
+							<li>
+							<a href="{block:IndexPage}#what{/block:IndexPage}{block:PermalinkPage}/#what{/block:PermalinkPage}" data-uk-smooth-scroll>Hackathon</a>
+							    
+							</li>
+							
+							
+							<li>
+							<a href="{block:IndexPage}#when{/block:IndexPage}{block:PermalinkPage}/#when{/block:PermalinkPage}" data-uk-smooth-scroll>¿Cuándo y dónde será?</a>
+							    
+							</li>
+			
+						
+							{block:IfEnableAboutUsSection}
+							<li><a href="{block:IndexPage}#about{/block:IndexPage}{block:PermalinkPage}/#about{/block:PermalinkPage}" data-uk-smooth-scroll>Acerca de OpenStack</a>
+							    
+							</li>
+							{/block:IfEnableAboutUsSection}
+							
+							
+							<li><a href="{block:IndexPage}#posts{/block:IndexPage}{block:PermalinkPage}/#posts{/block:PermalinkPage}" data-uk-smooth-scroll>Noticias</a></li>
+							{block:IfEnableContactUsSection}<li><a href="{block:IndexPage}#contact{/block:Indexpage}{block:PermalinkPage}/#contact{/block:PermalinkPage}" data-uk-smooth-scroll>Registrate</a></li>{/block:IfEnableContactUsSection}
+							{block:HasPages}
+						    {block:Pages}<li><a href="{URL}">{Label}</a></li>{/block:Pages}
+        					{/block:HasPages}
+        					{block:AskEnabled}<li><a href="/ask">Ask</a></li>{/block:AskEnabled}
+							{block:ifEnableAdditionalNavItems}
+							<li><a href="{text:Nav Link 5 URL}" data-uk-smooth-scroll>{text:Nav Link 5 Title}</a></li>
+							<li><a href="{text:Nav Link 6 URL}" data-uk-smooth-scroll>{text:Nav Link 6 Title}</a></li>
+							{/block:ifEnableAdditionalNavItems}
+						</ul>
+					</div><!-- /collapse navbar -->
+			</div><!-- /container -->
+		</div><!-- /menu -->
+</header>
+
+{block:IndexPage}
+	<!-- Home
+  ================================================== -->
+	<section id="home">
+		<div class="">
+			<div class="">
+			
+			    <div class="row ">
+            		<div class="col-md-12" style="margin-top: 100px;">
+            		    <div class="logo add-margin-top" >
+            			    <img src="http://static.tumblr.com/mlsnyxr/CVHo67imr/untitled-3.png" >
+            			</div>
+            		</div>
+            	</div>
+			    
+			    
+			    <div class="row add-margin-top">
+            		<div class="col-md-12" >
+            			
+            		    <div class="frm-section-title" >
+            				<div  >
+            				    9 - 11 de Septiembre del 2016, Guadalajara, Jalisco, México
+            				</div>
+            				<div  style="font-size: 18px;padding-bottom: 10px;">
+            				    Lugar del evento: Tecnológico de Monterrey, Campus Guadalajara
+            				</div>
+            			</div>
+            		
+            		</div>
+            	</div>
+			    
+			    <div class="row label frm-label add-margin-top">
+			        <div class="col-md-12">
+			            ¿Te gustaría participar en el primer Hackathon de OpenStack en Latinoamérica?
+			        </div>
+			    </div>
+			    
+			
+			    <div class="row registrate add-margin-top">
+			        <div class="col-md-12">
+			        
+			      
+				
+			        <div class="registrate-btn">
+			            <div class="frm-btn">
+			                <a  href="{block:IndexPage}#contact{/block:Indexpage}{block:PermalinkPage}/#contact{/block:PermalinkPage}" data-uk-smooth-scroll>Regístrate</a>
+			            </div>
+			            </div>
+			        </div>
+			      
+			    </div>
+			
+			    
+				
+			</div><!-- /container -->
+		</div><!-- /mask -->
+	</section><!-- /home -->
+{/block:IndexPage}
+
+		
+	<!-- ===== Que es un hackathon  ===== -->
+
+<section id="what" style="background-color: #E8E8E8">
+		<div class="container padding-top mid-width">
+			<h2 class="centered" {block:ifEnableAnimation}data-uk-scrollspy="{cls:'uk-animation-scale-down', repeat: true}"{/block:ifEnableAnimation}>Hackathon</h2>
+			<div class="border"></div>
+	
+			<div class="row">
+			
+			<div class="col-md-12" >
+			
+			<p>
+			¿Alguna vez se te ocurrió una gran idea que resolvería un problema global a través de una aplicación de software? ¿Tienes una gran propuesta para un proyecto de software y no conoces a nadie que te ayude a llevarlo a cabo? ¿No has podido trabajar en tu idea por falta de tiempo, o recursos?
+ </p>
+ 
+ <br>
+ <p>
+¿Desarrollador? ¿DevOps? ¿Diseñador?, ¡Todos son bienvenidos! ¡Ven participa y da vida a tus ideas, al lado de gente tan apasionada como tú! Esta es tu oportunidad ¡Te invitamos al OpenStack App Hackathon!, conoce personas y comunidades que comparten la misma pasión y ganas de cambiar el mundo con tecnología, al igual que tú.
+ </p>
+  <br>
+ <p>
+Este Hackathon es para todos aquellos con ganas de aprender, conocer gente y resolver problemas reales de impacto mundial a través de aplicaciones para la nube.
+			</p>
+				 <br>
+				
+				<p>Si ya conoces OpenStack: Participa como mentor. Si deseas aprender a crear aplicaciones en la nube: encuentra un equipo multidisciplinario. Si no estás muy seguro de que es un Hackathon; Participa como voluntario.</p>
+				
+				 <br>
+				<p>
+				Pero, ¿Por dónde empiezo?, Si tu preocupación es la falta de experiencia en un evento como este, no te preocupes. Tendremos actividades de entrenamiento antes del evento, aprenderás las últimas tecnologías de programación para aplicaciones en la nube.
+				</p>
+				
+		<br><br><br><br>
+		<div style="text-align: center;">
+		
+		 <div style="color: #000;
+    font-size: 21px;
+    text-align: center;">¿Qué esperas? Únete a nuestro canal de Chat en Slack ahora: </div>
+		 
+		 <a style="color: #ae4b33;     font-size: 20px;"href="https://cloud-app-hackathon.slack.com">https://cloud-app-hackathon.slack.com</a>
+		</div>
+				</div>
+				
+			
+			</div><!-- /row -->
+			
+		
+		</div><!-- /container -->
+	</section><!-- /services -->
+
+	<!-- ===== Fin Que es un hackathon  ===== -->
+	
+	
+		<!-- ===== When  ===== -->
+
+<section id="when">
+
+
+			
+	
+	
+	<div class="container padding-top mid-width">
+	
+	<h2 class="centered" {block:ifEnableAnimation}data-uk-scrollspy="{cls:'uk-animation-scale-down', repeat: true}"{/block:ifEnableAnimation}>¿Cuándo y dónde será?</h2>
+			<div class="border"></div>
+		
+		<div class="row">
+    		<div class="col-md-12" >
+    			 <p>El evento se llevará a cabo del 9 al 11 de Septiembre  en el Tecnólogico de Monterrey, campus Guadalajara. Ubicado en Av. General Ramón Corona #2514, Nuevo México, CP. 45201 Zapopan, Jal., México.
+            		</p>
+            		
+            </div>
+    	</div>
+    	
+    	<div class="row">
+    		<div class="col-md-12" >
+    		
+    		    <div class="row">
+            		<div class="col-md-6" >
+            			 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3731.428163678287!2d-103.45822958448854!3d20.73343300316903!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428a8b46308de3f%3A0xfcb2ffa81d3117dd!2sTecnol%C3%B3gico+de+Monterrey%2C+Campus+Guadalajara.+(ITESM+GDA)!5e0!3m2!1sen!2sus!4v1461618936416" width="600" height="450" frameborder="0" style="border:0;width: 450px;height: 307px;" allowfullscreen></iframe>
+            		</div>
+            		
+            		<div class="col-md-6" >
+            		    <div class="row" style="margin-top:30px">
+                	        <div class="col-md-12" >
+                		        <img  class="img-responsive img-rounded" src="http://static.tumblr.com/mlsnyxr/NzBo69eha/horizontalprimario_azul.png">
+                			
+            		        </div>
+                	        
+                	
+                        </div><!-- /row -->
+                        <div class="row" style="margin-top:40px">
+                        <div class="col-md-4" >
+                                <img  class="img-responsive img-rounded" src="http://static.tumblr.com/mlsnyxr/Hhdo67lev/pic1.jpeg">
+                	        </div>
+                	        <div class="col-md-4" >
+                		        <img class="img-responsive img-rounded"  src="http://static.tumblr.com/mlsnyxr/9tRo67l7t/pic12_copy.jpg">
+            		        </div>
+            		        <div class="col-md-4" >
+                		        <img class="img-responsive img-rounded" src="http://static.tumblr.com/mlsnyxr/j92o67lgy/pic13.jpeg">
+            		        </div>
+                        </div><!-- /row -->
+            		</div>
+            		
+            	</div><!-- /row -->
+    		</div>
+    	</div><!-- /row -->
+	</div><!-- /row -->
+	
+</section><!-- /container -->
+
+	<!-- ===== Fin When  ===== -->
+
+
+{block:IfEnableAboutUsSection}
+	<!-- About / Sobre
+  ================================================== -->
+	<section id="about">
+		<div class="container padding-top mid-width">
+			<h2 class="centered">Acerca de Openstack</h2>
+			<div class="border"></div>
+			<div class="row">
+				<div class="col-md-6 col-sm-12 col-xs-12">
+					<img src="{image:About Us Image}" class="right" width=75%>
+				</div>
+				<div class="col-md-6 col-sm-12 col-xs-12" {block:ifEnableAnimation}data-uk-scrollspy="{cls:'uk-animation-slide-top', repeat: true}"{/block:ifEnableAnimation}>
+					<p>{text:About Us Text}</p>
+					<br />
+					<b>invitar a amigos</b>
+					<ul>
+						<li><a href="http://facebook.com/{text:Facebook ID}" target="_blank"><i class="fa fa-facebook-square"></i></a></li>
+						<li><a href="http://twitter.com/{text:Twitter ID}" target="_blank"><i class="fa fa-twitter-square"></i></a></li>
+						<li><a href="http://instagram.com/{text:Instagram ID}" target="_blank"><i class="fa fa-instagram"></i></a></li>
+						<li><a href="http://{text:Tumblr ID}.tumblr.com" target="_blank"><i class="fa fa-tumblr-square"></i></a></li>
+						<li><a href="http://linkedin.com/{text:LinkedIn ID}" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="http://youtube.com/{text:Youtube Channel}" target="_blank"><i class="fa fa-youtube-square"></i></a></li>
+					</ul>
+				</div>
+			</div>
+		</div><!-- /container -->
+	</section><!-- /about us -->
+{/block:IfEnableAboutUsSection}
+	<!-- ====== Separator + Signup Form ====== -->
+	<div id="separator-1" class="separator">
+		<div class="mask">
+			<div class="container padding-top">
+				<h3 class="centered">Todos somos la comunidad</h3>
+				<div class="border"></div>
+				<div class="row">
+				<h4 class="centered">¿Nunca has participado en un hackathon? ¿Aún no tienes un equipo? ¿Te gustaría ser un voluntario,  mentor o juez? ¡Aprende mas uniendote a nuestro canal de Slack!</h4>
+					<form action="{text:Mailchimp Form Action}" method="post" class="subscription-form" class="validate" target="_blank" novalidate>
+					<div class="col-md-8" {block:ifEnableAnimation}data-uk-scrollspy="{cls:'uk-animation-slide-left', repeat: true}"{/block:ifEnableAnimation}>
+						<input type="text" name="EMAIL" class="text" placeholder="...Ingresa tu email para recibir una invitación...">
+					</div>
+					<div class="col-md-4" {block:ifEnableAnimation}data-uk-scrollspy="{cls:'uk-animation-slide-right', repeat: true}"{/block:ifEnableAnimation}>
+						<input type="submit" class="submit" >
+					</div>
+					</form>
+				</div>
+			</div><!-- /container -->
+		</div><!-- /mask -->
+	</div><!-- /separator -->
+{/block:IndexPage}
+	<!-- Other Page Formats
+  ================================================== -->
+
+	<!-- Posts / News
+  ================================================== -->
+	<section id="posts">
+		<div class="container small-width padding-top">
+			{block:IndexPage}<h2 class="centered">noticias</h2>
+			<div class="border"></div>
+			{/block:IndexPage}
+            {block:TagPage}
+            		<h2 class="centered">Tagged: <strong style="text-transform: capitalize;">{Tag}</strong></h2>
+            {/block:TagPage}
+			<div class="row">
+			{block:Posts}
+				<article class="{block:PermalinkPage}col-md-12{/block:PermalinkPage}">
+					<header class="metadata"><span class="icon-clock black">{DayOfMonth}/{MonthNumberWithZero}/{ShortYear}</span> <a href="{Permalink}#notes" class="icon-heart">{NoteCountWithLabel}</a> <a href="{Permalink}#disqus_thread" class="dsq-comment-count icon-chat">Comments</a></header>
+					<hr>
+					<div id="content">
+					    {block:Text}
+						<h3 class="post_title">{Title}</h3>
+						<p>{body}</p>
+						{/block:Text}
+						
+						{block:Photo}
+						<div class="photo">{block:HighRes}<a href="{Permalink}" rel="photo{PostID}"><img src="{PhotoURL-HighRes}" alt="{PhotoAlt}" class="full-width" title="{PhotoAlt}" width=100%></a>{/block:HighRes}
+						<a href="{Permalink}" class="full-width" {block:HighRes}style="display: none;"{/block:HighRes} rel="photo{PostID}"><img src="{PhotoURL-500}" alt="{PhotoAlt}" title="{PhotoAlt}"></a></div>
+						{block:Caption}
+						<p>{Caption}</p>
+						{/block:Caption}
+						{/block:Photo}
+						
+						{block:Photoset}
+                        <div class="photoset-grid" data-layout="{PhotosetLayout}" data-id="photoset{PostID}">
+            			{block:Photos}
+            			<img src="{PhotoURL-500}"
+            			{block:HighRes}data-highres="{PhotoURL-HighRes}"{/block:HighRes}
+            			{block:Caption}alt="{Caption}"{/block:caption} />
+            			{/block:Photos}
+            			</div>
+            			{block:Caption}
+						<p>{Caption}</p>
+						{/block:Caption}
+						{/block:Photoset}
+						
+						{block:Link}
+						<a href="{URL}" {Target} class="no-decoration">
+						<div class="link-box">
+						<h3 class="link">{Name}</h3>
+						    {block:Description}
+            					<p>{Description}</p>
+            				{/block:Description}
+						</div>
+						</a>
+            				
+            			
+						{/block:Link}
+						
+						{block:Quote}
+						<blockquote class="quote">{Quote}
+						    
+						<small><cite title="Source Title">{block:Source}{Source}{/block:Source}</cite></small>
+						</blockquote>
+            			
+
+						{/block:Quote}
+						
+						
+						{block:Chat}
+							<ul class="chat-box">
+                				{block:Lines}<li class="{Alt}"><span>{block:Label}{Label}{/block:Label}</span>{Line}</li>{/block:Lines}
+                			</ul>
+						{/block:Chat}
+						
+						{block:Audio}
+						    {block:AudioPlayer}
+                			<div class="player">{AudioPlayer}</div>
+                			{/block:AudioPlayer}
+                			{block:AudioEmbed}
+                			<div class="player">{AudioEmbed-250}</div>
+                			{/block:AudioEmbed}
+                			
+                			{block:Caption}
+                			<div class="caption typo">{Caption}</div>
+                			{/block:Caption}
+                			{block:Artist}<p><strong>Artist:</strong> {Artist}</p>{/block:Artist}
+                			{block:Album}<p><strong>Album:</strong> {Album}</p>{/block:Album}
+                			{block:TrackName}<p><strong>Track:</strong> {TrackName}</p>{/block:TrackName}
+						{/block:Audio}
+						
+						{block:Video}
+                            <div class="video-player">
+				                {VideoEmbed-700}
+		                	</div><!-- /video-player -->
+			                {block:Caption}<div class="caption typo">{Caption}</div>{/block:Caption}
+						{/block:Video}
+					
+					    {block:Answer}
+					        <blockquote>{lang:Asker asked 2} <strong>{Question}</strong></blockquote>
+					        {Answer}
+					    {/block:Answer}
+					</div><!-- /content -->
+					
+					<!-- Hastags -->
+					{block:HasTags}
+            			<div class="tags">
+            				<p></p>{block:Tags}<a href="{TagURL}#posts" title="{Tag}">#{Tag}</a>  {/block:Tags}</p>
+            			</div>
+            		{/block:HasTags}
+            		<!-- /Hastags -->
+					<hr>
+					<footer>
+						{block:IndexPage}<a href="{Permalink}"<button class="btn btn-default">Read More</button></a>{/block:IndexPage}
+						
+					</footer>
+				</article>
+				{/block:Posts}
+			</div><!-- /row -->
+		{block:PermalinkPage}
+            <div id="after_post" class="row">
+                {block:ifEnableDisqus}
+                <div id="disqus_thread"></div>
+                <script type="text/javascript">
+                    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+                        var disqus_shortname = '{text:Disqus Shortname}'; // Required - Replace <example> with your forum shortname
+                        
+                            /* * * DON'T EDIT BELOW THIS LINE * * */
+                    (function() {
+                        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+                        })();
+                </script>
+                <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+                {/block:ifEnableDisqus}
+                {block:ifEnablePostNotes}
+                {block:PostNotes}
+            	<div id="notes" class="col-md-12">
+            		   <h3>Notes</h3>
+            		{PostNotes-64}
+            	</div>
+            	{/block:PostNotes}
+            	{/block:ifEnablePostNotes}
+                </div><!-- /after_post -->
+                {/block:PermalinkPage}
+        {block:IndexPage}
+		{block:Pagination}
+		<div id="pagination">
+		    {block:PreviousPage}<a href="{PreviousPage}#posts" class="no-decoration"><div class="previouspage left">Previous page</div></a>{/block:PreviousPage}
+		    {block:NextPage}<a href="{NextPage}#posts" class="no-decoration"><div class="nextpage right">Next page</div></a>{/block:NextPage}
+		</div><!-- /pagination -->
+		{/block:Pagination}
+		{/block:IndexPage}
+		</div><!-- /container -->
+	</section><!-- /posts -->
+{block:IndexPage}
+	<!-- Separator 2
+  ================================================== -->
+  <div id="separator-2" class="separator">
+		<div class="mask">
+			<div class="container vertical-align padding-top">
+    			<div class="centered">
+    				<h4>"{text:Separator Quote}"</h4>
+    				<em>- {text:Separator Quote Source}</em>
+    			</div>
+			</div><!-- /container -->
+		</div><!-- /mask -->
+	</div><!-- /separator -->
+
+{block:IfEnableContactUsSection}
+
+	<!-- Contact / Signup
+  ================================================== -->
+
+	<section id="contact">
+		<div class="container padding-top">
+			<h2 class="centered">Registration is comming soon!</h2>
+		
+	
+			<footer id="footer">
+				<p>2016 © {Title} | OpenStack.org</p> <a href="https://www.openstack.org/community/events/" data-toggle="modal" data-target="#myModal" class="orange"> </p>
+			</footer>
+		</div><!-- /container -->
+	</section><!-- /contact -->
+{/block:IfEnableContactUsSection}
+{/block:Indexpage}
+
+
+	<!-- Scripts
+  ================================================== -->
+	<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+	{block:IfEnableStickyNav}
+	<script type="text/javascript" src="http://static.tumblr.com/9voxwm9/vTVmzrcxq/sticky.js"></script>
+	{/block:IfEnableStickyNav}
+	<script type="text/javascript" src="http://static.tumblr.com/9voxwm9/j4Nn01qfd/photoset-grid.js"></script>
+	<!-- FitVids Javascript file -->
+	<script src="http://static.tumblr.com/bf2tj8h/umWmlvmwc/jquery.fitvids.js"></script>
+	<script>
+	$(document).ready(function() {
+		
+		// photoset grid
+		$('.photoset-grid').photosetGrid({
+			highresLinks: true,
+			rel: $('.photoset-grid').attr('data-id'),
+			gutter: '10px'
+		});
+		
+		$('.video-player').fitVids({ customSelector: "iframe[src^='//www.tumblr.com']"});
+	})
+	</script>
+	
+
+</body>
+</html>
