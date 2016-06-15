@@ -36,26 +36,22 @@ Things to get done prior to the hackathon beginning:
 ### Event (in situ) Checklist
 
 Tasks to achieve during the event:
-- [ ] 1st do-->confirm
-- [ ] 2nd read-->do
-- [ ] 3rd
-- [ ] 4th
-- [ ] 5th
-- [ ] 6th
-- [ ] 7th
-- [ ] 8th
+- [ ] Wander between team to team, observing and offering to help wherever possible.
+- [ ] TAKE PICTURES!  ...and social medias with permission :)
+- [ ] Liaise with the judges chair to help notify status of team progress.
+- [ ] Remind teams of the timeboxing required to get things done, offer to find them help.
+- [ ] Have lots of conversations during meals times and ask people how they are feeling, what the event has been like for them.  Be a living survey to help feedback information for the next event.
+- [ ] Make sure all the team register and present something to the judges.
+- [ ] Take notes on which teams are the best and get their contact details so you can contact them after the event.
 
 ### Post Event Checklist
 
 Taks to achieve after the event:
-- [ ] 1st do-->confirm
-- [ ] 2nd read-->do
-- [ ] 3rd
-- [ ] 4th
-- [ ] 5th
-- [ ] 6th
-- [ ] 7th
-- [ ] 8th
+- [ ] This is your time to shine, this is your opportunity to kickstart a new community into existence!  Be excited and have save your engergy during the hackathon so you can help carry everyone through after the event.
+- [ ] Write blog posts talking about how you saw people connecting together, name people who were amazing (not just the winners, but the people who enjoyed the event and hacking together as a community).  Pictures or animated GIFs for extra points.
+- [ ] Agree where the community is going to carry on with the online conversation: mailing lists, slacks, groups, etc.
+- [ ] Buy coffees for some of the people you met and ask them to help you carry on building the community.
+- [ ] Announce the next follow-up event, be that social, training or celebratory.
 
 ## Additional Resources, Examples and Precedents
 
