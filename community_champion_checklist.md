@@ -26,16 +26,14 @@ Ok then, let's get going!
 ### Pre Event Checklist
 
 Things to get done prior to the hackathon beginning:
-- [ ] Help organise pre-event training with the []
-- [ ] 2nd read-->do
-- [ ] 3rd
-- [ ] 4th
-- [ ] 5th
-- [ ] 6th
-- [ ] 7th
-- [ ] 8th
+- [ ] Help organise pre-hackathon training with the 'training sensei' assuring communities far and wide are aware of this newly emerging cloud application developer community.
+- [ ] Help promote the event with the 'marketting guru' by assuring the logos and signage represent the core values and cultures of the local community.
+- [ ] Help the 'registration monarch' with team and individual registrations so everyone finds a hacker friendly group.
+- [ ] Support the 'lead event hacker' to put on weekly/fortnightly planning meetings with all the key community organisers.
+- [ ] Be on the lookout for any potential collaboration opportunities with other community leaders.
+- [ ] In the week leading up to the main event, be supporting and positive to everyone.  Reassure everyone the event is going to be amazing (bcuz bringing brilliant people together always is).
 
-### Event Checklist
+### Event (in situ) Checklist
 
 Tasks to achieve during the event:
 - [ ] 1st do-->confirm
