@@ -28,7 +28,7 @@ Things to get done prior to the hackathon beginning:
 - [ ] 7th
 - [ ] 8th
 
-### Event Checklist
+### Event (in situ) Checklist
 
 Tasks to achieve during the event:
 - [ ] 1st do-->confirm
