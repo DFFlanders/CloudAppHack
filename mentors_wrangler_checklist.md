@@ -53,6 +53,7 @@ Taks to achieve after the event:
 
  * Example from Taipei
  * [Example from Guadalajara](https://docs.google.com/document/d/1YHJSGsEouiZhEoJ-xJ2FlmK1jx9UBjwT9D6VJh8gX9k/pub)
+ * [Example Mentor Profile Spreadsheet from Guadalajara Hackathon](https://docs.google.com/spreadsheets/d/1vsVVE3mHKFj7KpArYty8_9f-gZ1ypdgdtcI64y6_12c/edit#gid=0)
  * Interesting resource worth reading.
  * Some precedents of how other open communities do this.
  * A helpful person worth contacting and having a chat.
