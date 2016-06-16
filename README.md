@@ -11,7 +11,7 @@ This repository is a set of checklists for the team of people who will organise 
  7. Infrastructure (cloud + wifi + power) [“angel”](infrastructure_angel_checklist.md)
  8. Venue + food + logistics [“magician”](venue_magician_checklist.md)
  9. Lead judge (and advocacy) [“chair”](judges_chair_checklist.md)
- 10. Summit & post event community [“champion”](community_champion_checklist.md)
+ 10. Summit & post event community [“champion”](community_volonteer_champion_checklist.md)
 
 Do you want to build *open* cloud applications, learn how by hosting your own OpenStack #CloudAppHack for your community.
 Click on the brochure below to read more:
