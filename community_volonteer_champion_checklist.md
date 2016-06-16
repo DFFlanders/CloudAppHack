@@ -1,22 +1,17 @@
-
-local community champion who will help take forward the local community beyond the hackathon, helping oragnise more cloud application trainings and other speakers who will advocate for open cross-cloud (disributted) applications.
-
-
-This file is the teamplate for event volonteer checklists.  
 Please feel free to branch and suggest pull edits so we can continue to improve the communities event checklists.
 
 # Checklist for #CloudAppHack "Community Champion"
 
-### The "Community Champion" is the person responsible for helping oragnise the long term health of an 'Open Cross-Cloud Application Developer community'.  This person must be passionate for the local community and willing to spend many a late night planning the next amazing event for one and all.  Their thirst for knowledge must be insatiable, and yet their willingness for someone else to go before them -helping all- shall be naturally paramount.
+### The "Community Champion" is the person responsible for helping oragnise the long term health of an 'Open Cross-Cloud Application Developer community'.  This person must be passionate for the local volonteer community and willing to spend many a late night planning the next amazing event for one and all.  Their thirst for knowledge must be insatiable, and yet their willingness for someone else to go before them -helping all- shall be naturally paramount. 
 
 Your objectives as the "Community Champion" (if you so choose to accept them...[1]):
  * get to know the core community of hackers: who they are and what tech they passionatley use.
- * search and befriend the best of the best hackers, recruiting them to build a new cloud application community
- * talk to one and all to find out what kinds of hacking events they want to attend next.
+ * search and befriend the best of the best hackers, recruiting them to volonteer their time to build a new cloud application community
+ * talk to one and all to find out what kinds of hacking events they want to attend next, and who can volonteer to help at future events.
 
 NB by "hackers" we mean anyone who playfully makes life work for them in as fast and fun a way as possible (not necessarily a coder, devopps, sysadmin, appdev, marketeer, et al).
 
-## Checklists for the Community Champion
+## Checklists for the Community Champion (of Volonteers)
 
 The below checklists are intended to provide the minimum viable set of tasks which will need to be completed by the Community Champion for the hackathon.  Naturally, you will add on additional tasks yourself and we would highly encourage you to create your own checklists and share them back with the community[1].
 
