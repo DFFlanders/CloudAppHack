@@ -15,7 +15,7 @@ You will be working closely with the "team registration monarch" who will also b
 - [ ] Meet with an OpenStack Foundation staff member to get your channel setup on slack
 - [ ] foobar...
 
-## Event Checklist
+## Event (during) Checklist
 
 - [ ] foobar...
 - [ ] etc.
