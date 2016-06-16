@@ -1,20 +1,18 @@
-This file is the teamplate for event volonteer checklists.  
 Please feel free to branch and suggest pull edits so we can continue to improve the communities event checklists.
 
-# TEMPLATE FOR infrastructure angel aka (cloud, wifi, power and video) ORGANISER CHECKLISTS
+# Digital Infrastructure Angel (cloud, wifi, power and video) for your Cloud Application Hackathon
 
-## Description of volonteer role and the key objectives they will need to achieve as one of the event organisers
+## The 'Infrastructure Angel' is the ultimate hardware hacker, able to leap firewalls and 
 
 Your objective as the "digital infrastructure angle" (if you so choose to accept them...[1]):
- * 1st assure cloud, wifi and power are on tap throughout the events, including the pre-training events and hackathon.
- * 2nd inform participants of what resources they should expect to have and what they should bring with them.
- * 3rd... ?
+ * Assure cloud, wifi and power are on tap throughout the events, including the pre-training events and hackathon.
+ * Inform participants of what resources they should expect to have and what they should bring with them.  Be ready for the main event days as the Hackathon doesn't happen without cloud, wifi and power.
+ * Assure the cloud as a resource is available for future use by the community so the cloud app developer community can conitnue to grow.
 
-## Checklists for ROLE
-The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks yourself and we would highly encourage you to create your own checklists and share them back with the community.
+## Checklists for 'Infrastructure Angel'
+The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks yourself and we would highly encourage you to create your own checklists and share them back with the community[1].
 
-Are you ready to help make your event take off...?
-Ok then, let's get going!
+Good luck and may the force be with you.
 
 ### Pre Event Checklist
 
