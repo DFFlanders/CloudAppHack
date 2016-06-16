@@ -2,18 +2,18 @@ Please feel free to branch and suggest pull edits to the owners ^^ so we can con
 
 # A Wrangler of Mentors for your Cloud Application Hackathon
 
-## The 'Mentors Wrangler' is one of the most important jobs of the Hackathon.  It is the mentors who will roam the halls of the hackathon being the "substitute superstar" which any team may call upon for help!  All hackathon teams will fail at some point and it is the mentor who must come to their rescue.  As the wrangler/gatherer/shepherd of the mentors, you must know the skills and capabilities of many great technicians, from: AppDev, DevOpps, SysAdmin, UX, Pitch Artists, User Testers, Techncial integrators, and everyone in between whom you can find to be a mentor.  Ideally you can recruit at least 1 mentor for every three teams accross a diversity of skills.
+## The 'Mentors Wrangler' is one of the most important jobs of the Hackathon.  It is the mentors who will roam the halls of the hackathon being the "substitute superstar" which any team may call upon for help!  All hackathon teams will stumble at some point and it is the mentor who must come to their rescue.  As the wrangler/gatherer/shepherd of the mentors, you must know the skills and capabilities of many great technicians, from: AppDev, DevOpps, SysAdmin, UX, Pitch Artists, User Testers, Techncial integrators, and everyone in between whom you can find to be a mentor.  Ideally you can recruit at least 1 mentor for every three teams accross a diversity of skills.
 
-Your objectives as the "XXXXXXXXXX" (if you so choose to accept them...[1]):
- * Recruit, befriend, recruit and plead with any known super talents to come and volonteer their time as a mentor.
- * Inspire mentors as to why sharring their knowledge and skills is an amazing thing to do!
- * Make the Hackathon a game for your mentors so they enjoy the event and want to do it again.
+Your objectives as the 'Mentor Wrangler' (if you so choose to accept them...[1]):
+ * Recruit, befriend, empower and plead with any known super talent to come and volonteer their time as a mentor.
+ * Inspire mentors as to why sharring their knowledge and skills is an amazing and truly good thing to do.
+ * Make the Hackathon a game for your mentors so they enjoy the event and want to help your community grow.
 
 ## Checklists for ROLE
-The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks yourself and we would highly encourage you to create your own checklists and share them back with the community[1].
+The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks yourself and we would highly encourage you to create your own checklists and share them back with the community[1].  See the bottom of this page for examples from other hackathons.
 
-Are you ready to help make your event take off...?
-Ok then, let's get going!
+Are you ready to help birth a new world of community based cloud apps...?
+Of course you are, this hackathon is going to make memories!
 
 ### Pre Event Checklist
 
