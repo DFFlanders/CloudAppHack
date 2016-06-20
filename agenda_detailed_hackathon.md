@@ -2,24 +2,24 @@ This page lists an agenda which is a prototype hackathon event from the particip
 
 T-minus 1 month until event:
 1. (months leading up to the event) Attend a pre-training 
-..* how to code cross cloud apps
-..* how to orchestrate cross cloud apps
-..* how to enable IoT applications
-..* etc
+* how to code cross cloud apps
+* how to orchestrate cross cloud apps
+* how to enable IoT applications
+* etc
 
 Friday:
-2.) (5pm) participants arrive to drinks and nibbles
-3.) (6pm) drinks and social mixer
+2. (5pm) participants arrive to drinks and nibbles
+3. (6pm) drinks and social mixer
 ..* speed neetworking for anyone who doesn't have a team
 ..* those in teams should declare which roles they are taking on: CIO, CTO, CMO, AppDev, DevOpps, UX, etc.
-4.) (7pm) Opening ceremony: 
+4. (7pm) Opening ceremony: 
 ..* prizes and judging process announced
 ..* mentors presented to teams along with map of team spaces (pick which mentor you want to work with)
-5.) (7.3opm) Teams claim their team space and which mentor they will have.
-6.) (8pm) Teams storyboard their ideas and prepare wireframes.
-7.) (9pm) Teams sign up for a "practice elevator pitch session" <-- use storyboard and wireframe to pitch their ideas.
-8.) (9pm-11pm) Teams practice their pitches.  Enjoy drinks, get ideas from other teams, etc.
-9.) (midnight) all teams go home and get good sleep (unless they are staying the night to hack through the evening).
+5. (7.3opm) Teams claim their team space and which mentor they will have.
+6. (8pm) Teams storyboard their ideas and prepare wireframes.
+7. (9pm) Teams sign up for a "practice elevator pitch session" <-- use storyboard and wireframe to pitch their ideas.
+8. (9pm-11pm) Teams practice their pitches.  Enjoy drinks, get ideas from other teams, etc.
+9. (midnight) all teams go home and get good sleep (unless they are staying the night to hack through the evening).
 
 Saturday:
 #!= tea and fruit available throughout the day so teams can take breaks throughout.
