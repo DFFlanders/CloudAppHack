@@ -1,19 +1,15 @@
 This page lists an agenda which is a prototype hackathon event from the participants PoV (please revise as you see fit for your local community):
 
-1. (@)Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b
+## T-minus 1 month until event:
 
-T-minus 1 month until event:
 1. (months leading up to the event) Attend a pre-training 
 * how to code cross cloud apps
 * how to orchestrate cross cloud apps
 * how to enable IoT applications
 * etc
 
-Friday:
+## Friday:
+
 2. (5pm) participants arrive to drinks and nibbles
 3. (6pm) drinks and social mixer
 ..* speed neetworking for anyone who doesn't have a team
@@ -27,8 +23,8 @@ Friday:
 8. (9pm-11pm) Teams practice their pitches.  Enjoy drinks, get ideas from other teams, etc.
 9. (midnight) all teams go home and get good sleep (unless they are staying the night to hack through the evening).
 
-Saturday:
-#!= tea and fruit available throughout the day so teams can take breaks throughout.
+## Saturday:
+tea and fruit available throughout the day so teams can take breaks throughout.
 10.) (8am) doors open
 11.) (9am) breakfast served
 12.) (10am) teams check in with mentor with list of things they will need help with to code app.
@@ -55,7 +51,7 @@ Saturday:
 21.) (9.30pm-11pm) Sprint 7:
 22.) (midnight) close of venue.
 
-Sunday:
+## Sunday:
 23.) 8am doors open
 24.) 9am breakfast
 25.) 10am mentor check-in
