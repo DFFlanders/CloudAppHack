@@ -1,6 +1,6 @@
-## Lead Hacker
+## Lead Hacker Checklists for Hackathon Event
 
-The 'lead hacker' is reponsible for the overall success of the event.  You should be a well organised people, able to kindly delegate tasks and ask for help. You will have run events before with an understanding for basic community principles: especially inclusion, kindness and a steady hand when things get stressful.
+##The 'lead hacker' is reponsible for the overall success of the event.  You should be a well organised person, able to kindly delegate tasks and humbly ask for help. You will have run events before with an understanding for basic community principles: especially inclusion, kindness and 'a steady hand' when things get stressful.
 
 Your objectives as the "Lead Hacker" (if you so choose to accept them...[1]):
  * Assemble a team of event organisers who are passionate for building up your local community.
@@ -9,10 +9,9 @@ Your objectives as the "Lead Hacker" (if you so choose to accept them...[1]):
  * Be the cheerleader, help people, do everything you can to make the event a positive organised experience for everyone.
 
 ## Checklists for the 'Lead Hacker'
-The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks to make your event even better and we would highly encourage you to create your own checklists and share them back with the community.
+The below checklists are intended to provide the minimum viable set of tasks which will need to be completed for the hackathon.  Naturally, you will add on additional tasks to make your event even better and we would highly encourage you to create your own checklists and share them back with the community[1].
 
-Are you ready to help make your event take off...?
-Ok then, let's get going!
+Are you ready to help make the world a better place where apps can work on any open cloud?
 
 ### Pre Event Checklist
 
@@ -58,6 +57,7 @@ Taks to achieve after the event:
 
  * Example from Taipei
  * Example from Guadalajara
+ * (Frequently Asked Questions guide from Guadalajara Hackathon](https://docs.google.com/document/d/1KO3LdLmw3LePttW4mY0EhMKVoq1IhyF64f7DwVNkkpo/pub)
  * Interesting resource worth reading.
  * Some precedents of how other open communities do this.
  * A helpful person worth contacting and having a chat.
