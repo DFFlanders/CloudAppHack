@@ -17,8 +17,8 @@ Ok then, let's get going!
 ### Pre Event Checklist
 
 To do four months prior to the hackathon taking place:
-- [ ] Contact the OpenStack "Application Hackathon Working Group" to find an Ambassador who can support you throughout the event.
-- [ ] Recruit the x10 event organisers who will help you achieve a successful 
+- [ ] Contact the OpenStack ["Application Hackathon Working Group"](https://wiki.openstack.org/wiki/Governance/Foundation/UserCommittee#Working_Groups_and_Teams) to find an Ambassador who can support you throughout the event.  A liaison from the OpenStack Foundation will be assigned to support you.
+- [ ] Recruit the x10 event organisers who will help you achieve a successful hackathon event, show them this repository with a list of checklists for the roles they will need to undertake as part of the event organising team.
 - [ ] 3rd
 - [ ] 4th
 - [ ] 5th
