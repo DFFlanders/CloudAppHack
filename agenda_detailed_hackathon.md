@@ -24,42 +24,58 @@ This page lists an agenda which is a prototype hackathon event from the particip
 9. (midnight) all teams go home and get good sleep (unless they are staying the night to hack through the evening).
 
 ## Saturday:
+
 tea and fruit available throughout the day so teams can take breaks throughout.
-10.) (8am) doors open
-11.) (9am) breakfast served
-12.) (10am) teams check in with mentor with list of things they will need help with to code app.
-13.) (10-11.30am) Sprint 1:
-..* alpha version of front-end of app
-..* alpha backend version of app
-..* alpha business pitch and marketting pitch
-14.) (11.30am-1pm) Sprint 2:
+
+10. (8am) doors open
+11. (9am) breakfast served
+12. (10am) teams check in with mentor with list of things they will need help with to code app.
+13. (10-11.30am) Sprint 1:
+  * alpha version of front-end of app
+  * alpha backend version of app
+  * alpha business pitch and marketting pitch
+14. (11.30am-1pm) Sprint 2:
 ..* 
-15.) (1-2pm) Lunch
-16.) (2-3pm) Sprint 3:
-..* deliverables: 
-..* etc.
-17.) (3pm-4.30pm) Sprint 4: 
-..* foo
-..* bar
-18.) (4.30-6pm) Sprint 5:
-..* foo
-..* bar
-19.) (6pm-8pm) Dinner & Drinks
-20.) (8-9.30pm) Sprint 6: 
-..* foo
-..* bar
-21.) (9.30pm-11pm) Sprint 7:
-22.) (midnight) close of venue.
+15. (1-2pm) Lunch
+16. (2-3pm) Sprint 3:
+  * deliverables: 
+  * etc.
+17. (3pm-4.30pm) Sprint 4: 
+  * foo
+  * bar
+18. (4.30-6pm) Sprint 5:
+  * foo
+  * bar
+19. (6pm-8pm) Dinner & Drinks
+20. (8-9.30pm) Sprint 6: 
+  * foo
+  * bar
+21. (9.30pm-11pm) Sprint 7:
+22. (midnight) close of venue.
 
 ## Sunday:
-23.) 8am doors open
-24.) 9am breakfast
-25.) 10am mentor check-in
-  * ask for help on your pitch deck.
-26.) 11am sign-up for judges slot
-27.) (noon) judging begins
-..* parallel judge rooms if more than 12 teams
 
+23. 8am doors open
+24. 9am breakfast
+25. 10am mentor check-in
+  * ask for help on your pitch deck.
+26. 11am sign-up for judges slot
+27. (noon) judging begins
+  * parallel judge rooms if more than 12 teams
+28. 1pm to 3pm Lunch
+29. 4pm final judges meeting and briefing
+29. 5pm 
+  a. short list of teams announced
+  b. Participants arrive Sunday morning to sign up for their judging slot.
+  c. Teams present their "app pitch" to the judges in 10 minute slots (2 min setup > 2min elevator pitch > 3min technical explanation > 2 min Q&A with judges > 1min exit), next team.
+  After all the teams have presented, each judge gets to pick 1 team whom they will stand on stage with to advocate to the audience on their behalf.
+  Once judges have picked their team, all participants are asked to go to the auditorium/stage.
+  The shortlisted teams are announced and join their judges/advocate on stage.
+  The judge/advocate will introduce the team they have selected (30 seconds)
+  Each team will have 90 seconds to give their pitch to the audience.  They only be allowed one slide and will be cut off after 90 seconds.
+  After all the teams have gone, the audience will select their winner via applause.
+  If there is a tie (>5 decibel applause difference) between teams then the judges will huddle in the middle of the stage and cast a vote for the winning team.
+  The runner up prizes will be awarded prior to the grand prize winner being announced.
 
 
  
