@@ -1,5 +1,11 @@
 This page lists an agenda which is a prototype hackathon event from the participants PoV (please revise as you see fit for your local community):
 
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+
 T-minus 1 month until event:
 1. (months leading up to the event) Attend a pre-training 
 * how to code cross cloud apps
