@@ -1,4 +1,4 @@
-## Lead Hacker Checklists for Hackathon Event
+## Lead Hacker Checklists for Cloud Application Hackathon Event
 
 ##The 'lead hacker' is reponsible for the overall success of the event.  You should be a well organised person, able to kindly delegate tasks and humbly ask for help. You will have run events before with an understanding for basic community principles: especially inclusion, kindness and 'a steady hand' when things get stressful.
 
@@ -18,15 +18,15 @@ Are you ready to help make the world a better place where apps can work on any o
 To do four months prior to the hackathon taking place:
 - [ ] Contact the OpenStack ["Application Hackathon Working Group"](https://wiki.openstack.org/wiki/Governance/Foundation/UserCommittee#Working_Groups_and_Teams) to find an Ambassador who can support you throughout the event.  A liaison from the OpenStack Foundation will be assigned to support you.
 - [ ] Recruit the x10 event organisers who will help you achieve a successful hackathon event, show them this repository with a list of checklists for the roles they will need to undertake as part of the event organising team.
-- [ ] 3rd
-- [ ] 4th
-- [ ] 5th
-- [ ] 6th
-- [ ] 7th
-- [ ] 8th
+- [ ] Lock down a venue, i.e. lock down the date and tell a new person every day about the Hackathon.  Hint: use any contacts you have at Universities as the Uni will often sponsor the event by donating the space.
+- [ ] Come up with the main theme (aka "tag line') of your event, how can you get all the "idea people" to come to this event and participate.  Your event logo will represent this tag line.  Your logo will be used on everything. Hint: what is happening at the time of your planned event, any news headlines likely - be timely!
+- [ ] Organise a simple one page website with basic instructions on how to get involved.  Ask your friendly OpenStack liaision to help provide examples of past events.  Don't forget: pictures, video and more pictures.
+- [ ] Draw up a floorplan to share with everyone showing spaces marked out for: opening ceremony stage, team spaces, food/drink areas, judging areas (if not the stages), and closing ceremony.
+- [ ] Run regular weekly/fortnightly conference calls to make sure your organising team is on track - have fun, encourage smiles as this event is about having fun with ideas!
+- [ ] Your hackathon begins with the informal training events which happen once month building up to the event, make sure the cloud and trainers are ready.  <-- this is where teams will form.
 
 To do one month before the hackathon happens:
-- [ ] 
+- [ ] make sure you have all 10 of your event organsing team and that they are on course to deliver 
 - [ ] 
 
 ### Event Checklist
