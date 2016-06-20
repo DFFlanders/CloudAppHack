@@ -27,6 +27,7 @@ You will be working closely with the "team registration monarch" who will also b
 
 # Additional resources and help
 
+ * [Letter to invite trainers from Guadalajara hackathon](https://docs.google.com/document/d/1xTpzNlcERRi5loUOKJ3XImnm_BNJ84v1EPvmtlfivqk/edit)
  * The best place to star with any question is OpenStack User-Committee mailing list (preface the subject line of your email with [AppHack-WG] and a lovely group of people will get back to you soon with help!
  * Examples from Taiwan Application Hackathon: 
  * Examples from Guadalajara Application Hackathon
