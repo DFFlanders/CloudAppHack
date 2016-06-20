@@ -1,6 +1,6 @@
 This page lists an agenda which is a prototype hackathon event from the participants PoV (please revise as you see fit for your local community):
 
-1. Item 1
+1. (@)Item 1
 2. Item 2
 3. Item 3
    * Item 3a
