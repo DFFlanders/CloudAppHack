@@ -64,18 +64,22 @@ tea and fruit available throughout the day so teams can take breaks throughout.
   * parallel judge rooms if more than 12 teams
 28. 1pm to 3pm Lunch
 29. 4pm final judges meeting and briefing
-29. 5pm 
-  a. short list of teams announced
-  b. Participants arrive Sunday morning to sign up for their judging slot.
-  c. Teams present their "app pitch" to the judges in 10 minute slots (2 min setup > 2min elevator pitch > 3min technical explanation > 2 min Q&A with judges > 1min exit), next team.
-  After all the teams have presented, each judge gets to pick 1 team whom they will stand on stage with to advocate to the audience on their behalf.
-  Once judges have picked their team, all participants are asked to go to the auditorium/stage.
-  The shortlisted teams are announced and join their judges/advocate on stage.
-  The judge/advocate will introduce the team they have selected (30 seconds)
-  Each team will have 90 seconds to give their pitch to the audience.  They only be allowed one slide and will be cut off after 90 seconds.
-  After all the teams have gone, the audience will select their winner via applause.
-  If there is a tie (>5 decibel applause difference) between teams then the judges will huddle in the middle of the stage and cast a vote for the winning team.
-  The runner up prizes will be awarded prior to the grand prize winner being announced.
+29. 5pm closing ceremony
+  - a. short list of teams announced
+  - b. Participants arrive Sunday morning to sign up for their judging slot.
+  - c. Teams present their "app pitch" to the judges in 10 minute slots (2 min setup > 2min elevator pitch > 3min technical explanation > 2 min Q&A with judges > 1min exit), next team.
+  - d. After all the teams have presented, each judge gets to pick 1 team whom they will stand on stage with to advocate to the audience on their behalf.
+  - e. Once judges have picked their team, all participants are asked to go to the auditorium/stage.
+  - f. The shortlisted teams are announced and join their judges/advocate on stage.
+  - g. The judge/advocate will introduce the team they have selected (30 seconds)
+  - h. Each team will have 90 seconds to give their pitch to the audience.  They only be allowed one slide and will be cut off after 90 seconds.
+  - i. After all the teams have gone, the audience will select their winner via applause.
+  - j. If there is a tie (>5 decibel applause difference) between teams then the judges will huddle in the middle of the stage and cast a vote for the winning team.
+  - k. The runner up prizes will be awarded prior to the grand prize winner being announced.
+30. close of event
+  * interviews with winning teams
+  * bump-out
+  * post-post drinks with organising team
 
 
  
