@@ -1,5 +1,5 @@
 This file is the teamplate for event volonteer checklists.  
-Please feel free to branch and suggest pull edits so we can continue to improve the communities event checklists.
+Please feel free to branch and suggest pull edits to the lists below so we can continue to improve the community event hackathon checklists.
 
 # XXXXXX for your Cloud Application Hackathon
 
