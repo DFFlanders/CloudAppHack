@@ -16,15 +16,22 @@ Good luck and may the force be with you.
 
 ### Pre Event Checklist
 
-Things to get done prior to the hackathon beginning:
-- [ ] 1st do-->confirm
-- [ ] 2nd read-->do
-- [ ] 3rd
-- [ ] 4th
-- [ ] 5th
-- [ ] 6th
-- [ ] 7th
-- [ ] 8th
+Things to get done prior to the pre-hackthon training beginning (3 months before the hackathon):
+- [ ] Liaise with the OpenStack Foundation early on to find either: a.) a public cloud for use at the event (sponsored), b.) a private cloud already in use at a company (who want to stress test their cloud), or c.) a group who can build a cloud reliably and to spec for the event on time.
+- [ ] Outline what spec you will need from your cloud including: latency, programmtic capabilities, hardware performance, uptime and reliability.  Hint: talking about the clouds capability is a great presentation for the start of the event.
+- [ ] Ask for help on cloud, wifi, power and lighting - these are all MUST have infrastructure componets for your event, there is no event without these four things.
+- [ ] Have early discussions with your vendor provider on the power situation, you don't want to trip breakers during the event.  Don't be afraid to pay for venue suppor to assure wifi and power access (it's worth it to have someone on premisis who knows).
+- [ ] Go to your venue for training and hackathons and test the network and cloud at the venue - this real world testing always proves to uncover problems before they happen at the event.  No testing wifi/cloud = high failure risk.
+- [ ] Test your cloud in a variety of situions.  Liaise with the 'training sensei' to assure the training works on the cloud prior to the training taking place.
+- [ ] Confirm your cloud provider (no cloud = no event!)
+
+Things to do prior to the hackathon event beginning (1 month before the hackathon)
+- [ ] Have your network provider show you the data on the latest test of how their network was stressed.  See the evidence, don't just get verbal confirmation.  No wifi = no hackathon.
+- [ ] If not sure about wifi, arrange for a wired network and setup time to enable routers/cables.
+- [ ] Plan for a minimum of 3x power sockets per person, i.e. laptop, phone, tablet, etc.
+- [ ] Make sure your cloud has enough accounts/cores for all the participants.
+- [ ] Make sure the SDKs and APIs which the Application Developers will use are working and responding via the command line.
+- [ ] Think about lighting, having some lamps which can go on and off and create different ambiance-moods around the hackathon venue can really help!
 
 ### Event Checklist
 
