@@ -1,8 +1,8 @@
 Please feel free to branch and suggest pull edits so we can continue to improve the communities event checklists[1].
 
-# Welcome 'Digital Infrastructure Angel' (cloud, wifi, power and lights) for your Cloud Application Hackathon
+# Welcome 'Digital Infrastructure Angel' (cloud, wifi, power & lights) for your Cloud Application Hackathon
 
-## The 'Infrastructure Angel' is the ultimate hardware hacker, able to leap networing firewalls and power socket breakers in a single (safe) bound.  Above all, it is the requirement of having a stable cloud consistent cloud which the all the events participants can use as part of pre-training, hackathon competition and post-event playtime.  No pressure, but without the delivery of cloud, power, wifi and lights the hackathon will be a failure. 
+## The 'Infrastructure Angel' is the ultimate hardware hacker, able to leap networing firewalls and power socket breakers in a single (safe) bound.  Above all, it is your responsibility to have a stable consistent cloud for all the hackers to use.  Remember, the cloud needs to be ready a month ahead of the hackathon for pre-training as well (also a good chance to test the cloud).  The cloud also needs to be around for awhile after the hackathon so participants can continue to use their new skills.  No pressure, but without the delivery of cloud, power, wifi and lights the hackathon will be a failure. 
 
 Your objective as the "digital infrastructure angle" (if you so choose to accept them...[1]):
  * Assure cloud, wifi and power are on tap throughout the events, including the pre-training events and hackathon.
