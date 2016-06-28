@@ -35,7 +35,7 @@ Tasks to achieve during the event:
 - [ ] 1st do-->confirm
 - [ ] 2nd read-->do
 - [ ] 3rd
-- [ ] 4th
+- [ ] 
 - [ ] 5th
 - [ ] 6th
 - [ ] Announce when the next CloudApphack is likey to happen.
@@ -50,7 +50,7 @@ Taks to achieve after the event:
 - [ ] 4th
 - [ ] 5th
 - [ ] 6th
-- [ ] 7th
+- [ ] Post Mortem reflection +/- review...
 - [ ] Confirm date of next hackathon
 
 ## Additional Resources, Examples and Precedents
