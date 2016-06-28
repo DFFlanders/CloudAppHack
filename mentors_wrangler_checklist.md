@@ -32,7 +32,7 @@ Tasks to achieve during the event:
 - [ ] 
 - [ ] 3rd
 - [ ] 4th
-- [ ] 5th
+- [ ] Monitor for bugs to feedback to wider OpenStack Dev+ Opps community
 - [ ] 6th
 - [ ] 7th
 - [ ] 8th
