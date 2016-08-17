@@ -56,9 +56,9 @@ Taks to achieve after the event:
 
 ## Additional Resources, Examples and Precedents
 
- * Example [Sscorecard from from Taipei](https://docs.google.com/spreadsheets/d/1VdP9F1kuvLwoeCN7lwH56G_XYHsianlpLVW6jnVwKIA/edit#gid=409366603)
+ * Example [Scorecard from from Taipei](https://docs.google.com/spreadsheets/d/1VdP9F1kuvLwoeCN7lwH56G_XYHsianlpLVW6jnVwKIA/edit#gid=409366603)
  * Example [judging criterian presentation from Taipei Hackathon](https://docs.google.com/presentation/d/1yYzDz97uNMahBQO58uaw3goK549jPxAXj5HMZfWIa_0/pub)
- * Pre-hackathon presentation for judges/advocates and mentors to get them ready for the event.
+ * Pre-hackathon [presentation for judges/advocates and mentors to get them ready for the event](https://docs.google.com/presentation/d/1GTqfmb36Ta6JwAN3llJ4Vhheo1-DIIceig5J7e_cpjI/pub#slide=id.g55e46d1fc3d12088_15).
  * Example from Guadalajara...
  * Interesting resource worth reading...
  * Some precedents of how other open communities do this...
