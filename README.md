@@ -8,16 +8,17 @@ This repository is a set of checklists for the team of people who will organise 
  4. [Sponsorship “czar”](sponsorship_czar_checklist.md)
  5. [Team registration “monarch”](team_registration_monarch_checklist.md)
  6. [Marketting (social) “guru”](marketting_guru_checklist.md)
- 7. [Infrastructure (cloud + wifi + power) [“angel”](infrastructure_angel_checklist.md)
+ 7. [Infrastructure (cloud + wifi + power) “angel”](infrastructure_angel_checklist.md)
  8. [Logistics (vnue) “magician”](venue_magician_checklist.md)
  9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md)
  10.[Community volonteer “champion”](community_volonteer_champion_checklist.md)
 
-Do you want to build *open* cloud applications, learn how by hosting your own OpenStack #CloudAppHack for your community.
-Click on the brochure below to read more:
+Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
+
+Click on the brochure below to learn more:
 
 [![Read this quick brochure before you get started in organising your hackathon](https://pbs.twimg.com/media/CkFOue5WYAAB1pK.jpg)](https://docs.google.com/presentation/d/1dK7d3A2pQ9iv3VxoVvAF1x4m7d10cZUc-q4F2e95GgQ/pub?start=true&loop=true&delayms=3000)
 
-If (after reading the above brochure), you are still keen on progressing, please contact OpenStack's Cloud Application Hackathon Working Group, which is filled with lovely people who have themselves run hackathons and can help provide advice, guidance, examples and mentoship to help you get going!  PS these checklists make for a great way to have a conversation with the AppHack-WG members and their individual expertises.
+If (after reading the above brochure), you are still keen on progressing, please contact [OpenStack's Cloud Application Hackathon Working Group](https://wiki.openstack.org/wiki/CloudAppHack-WG), which is filled with lovely people who have themselves run hackathons and can help provide advice, guidance, examples and mentoship to help you get going!  PS these checklists make for a great way to have a conversation with the AppHack-WG members and their individual expertises.
 
 [1]= We love checklists, check out the ["Checklist Manifesto"](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)!
