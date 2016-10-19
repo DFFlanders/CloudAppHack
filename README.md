@@ -2,16 +2,16 @@
 
 This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for your local community[1]:
 
- 1. Overall cloud app event [“lead hacker”] (lead_hacker_checklist.md)
- 2. [Pre-training “sensei”](training_sensei_checklist.md)
- 3. [Mentors “wrangler”](mentors_wrangler_checklist.md)
- 4. [Sponsorship “czar”](sponsorship_czar_checklist.md)
- 5. [Team registration “monarch”](team_registration_monarch_checklist.md)
- 6. [Marketting (social) “guru”](marketting_guru_checklist.md)
- 7. [Infrastructure (cloud + wifi + power) “angel”](infrastructure_angel_checklist.md)
- 8. [Logistics (vnue) “magician”](venue_magician_checklist.md)
- 9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md)
- 10. [Community volonteer “champion”](community_volonteer_champion_checklist.md)
+ 1. Overall cloud app event [“lead hacker”] (lead_hacker_checklist.md) = responsible for bringing the below people together on a weekly basis to do the work which wll result in an amazing hackathon, ergo next gen cloud apps!
+ 2. [Pre-training “sensei”](training_sensei_checklist.md) = organises the pre-traing event for hackathon teams so they are ready to compete!  You wouldn't run a marathon without training, same goes for hackathons ;-)
+ 3. [Mentors “wrangler”](mentors_wrangler_checklist.md) = no one hackathon team can have all the skills they will need to complete their cloud app, you'll need at least a dozen mentors who can act as 'shared team members' to help solve problems for teams throughout the hackathon.
+ 4. [Sponsorship “czar”](sponsorship_czar_checklist.md) = A hackathon is a fun competition and a competition needs prizes for the winners.
+ 5. [Team registration “monarch”](team_registration_monarch_checklist.md) = Teams need to register for this event which means someone needs to help put teams together during all the pre-training events so the teams are ready to go at the start of the hackathon.
+ 6. [Marketting (social) “guru”](marketting_guru_checklist.md) = Advertising and connecting the community prior to and after the event is all thanks to that one special person with the magic spells to use 'social media'!
+ 7. [Infrastructure (cloud + wifi + power) “angel”](infrastructure_angel_checklist.md) = There are no cloud apps without a cloud, you'll need the cloud ready at least in a month in advance to test (a couple of backup clouds is a good ideas as well).
+ 8. [Logistics (vnue) “magician”](venue_magician_checklist.md) = An event is secretly judges by everyone based on its location, ambiance, food, fun and other logistical activities.  
+ 9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md) = A compeittion must be judged fairly, transparently and as much in the open as possible so that everyone feels it was a good competition. 
+ 10. [Community volonteer “champion”](community_volonteer_champion_checklist.md) = hackathons have an amazing way of creating communities of devleopers who want to meet up and do things after the event.  Have someone who is already in the community ready to take on your participants and get them collaborating after the event.
 
 Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
 
