@@ -1,5 +1,18 @@
 # Welcome to #CloudAppHack
 
+This repository is a collection of everything you will need to run a hackathon which upholds the standards and ethos of the OpenStack Foundation.  We are working on publishing the following 'cloud app hack guides':
+
+ - [x] Brochure (overview) of running a 'Cloud Application Hackathon'
+ - [x] Event Volonteer Roles (below)
+ - [ ] Event contract (on request)
+ - [ ] Sponsorship prospectus (on request)
+ - [ ] Timelines / countdown calendars
+ - [ ] Branding / website / logos
+ - [ ] Support from the OpenStack Foundation (as approved the User Committee Working Group)
+
+## Event Volonteer Roles
+You'll need a minimum of ten volonteers to run a quality hackathon event.  Below is a list of those roles and checklists of the things those volonteers will need to achieved for an brillaint clud application hacakthon!
+
 This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for your local community[1]:
 
  1. Overall cloud app event [“lead hacker”] (lead_hacker_checklist.md) = responsible for bringing the below people together on a weekly basis to do the work which wll result in an amazing hackathon, ergo next gen cloud apps!
