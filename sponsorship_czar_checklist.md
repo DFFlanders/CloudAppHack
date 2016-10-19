@@ -6,6 +6,7 @@ Please feel free to branch and suggest pull edits so we can continue to improve 
 
 Your objectives as the "sponsorship czar" (if you so choose to accept them...[1]):
  * Help create the hype and overall theme of the event which sponsors will want to sponsor, what is the theme of the event which will bring the community together?!
+ * Forecast potenitial expenses, distribute them accordingly in terms of venue, infrastructure, marketing, meals and prizes.
  * Oversee the judges, prizes and liaise with the OpenStack foundation to assure comliance with community guidelines.
  * Spend time with the sponsors so they understand the long term value of the community and why they want to participate in this event and the next events.
 
@@ -24,6 +25,7 @@ Things to get done prior to the hackathon beginning:
 - [ ] OpenStack sponsors want new talent, how is the hackathon going to give them access to potentially hiring new talent?  Chat with your OpenStack Foundation liaison for ideas.
 - [ ] Know when and who to ask for sponsorship.  If asking enterprise companies ask about their Q1 and Q4 budgets.  Approach local Telcos in your area (they love OpenStack).  Approach Government organisation as they love any prize where they can get citizens hacking on government data.   Universities are also good to ask if there is a research project prize which could help their scientists.
 - [ ] Engate with the "Tech Analysts" (The Register, TechCrunch, etc) who are happy to help advertise the event and give it legitimacy which sponsors will want to see.  Engage your OpenStack Foudnation Liaison to help provide introductions.
+- [ ] Sign Sponsorship contract
 - [ ] 5th
 - [ ] 6th
 - [ ] Help work with the lead judge to assign judges who will be fair and represent the sponsorship prizes.
