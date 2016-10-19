@@ -11,7 +11,7 @@ This repository is a set of checklists for the team of people who will organise 
  7. [Infrastructure (cloud + wifi + power) “angel”](infrastructure_angel_checklist.md)
  8. [Logistics (vnue) “magician”](venue_magician_checklist.md)
  9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md)
- 10.[Community volonteer “champion”](community_volonteer_champion_checklist.md)
+ 10. [Community volonteer “champion”](community_volonteer_champion_checklist.md)
 
 Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
 
