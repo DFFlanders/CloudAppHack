@@ -2,16 +2,16 @@
 
 This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for your local community[1]:
 
- 1. Overall cloud app community [“lead hacker”] (lead_hacker_checklist.md)
- 2. Pre training [“sensei”](training_sensei_checklist.md)
- 3. Mentors + team helpers [“wrangler”](mentors_wrangler_checklist.md)
- 4. Sponsorship [“czar”](sponsorship_czar_checklist.md)
- 5. Team registration [“monarch”](team_registration_monarch_checklist.md)
- 6. Flyers, stickers, signage and marketing [“guru”](marketting_guru_checklist.md)
- 7. Infrastructure (cloud + wifi + power) [“angel”](infrastructure_angel_checklist.md)
- 8. Venue + food + logistics [“magician”](venue_magician_checklist.md)
- 9. Lead judge (and advocacy) [“chair”](judges_chair_checklist.md)
- 10. Summit & post event community [“champion”](community_volonteer_champion_checklist.md)
+ 1. Overall cloud app event [“lead hacker”] (lead_hacker_checklist.md)
+ 2. [Pre-training “sensei”](training_sensei_checklist.md)
+ 3. [Mentors “wrangler”](mentors_wrangler_checklist.md)
+ 4. [Sponsorship “czar”](sponsorship_czar_checklist.md)
+ 5. [Team registration “monarch”](team_registration_monarch_checklist.md)
+ 6. [Marketting (social) “guru”](marketting_guru_checklist.md)
+ 7. [Infrastructure (cloud + wifi + power) [“angel”](infrastructure_angel_checklist.md)
+ 8. [Logistics (vnue) “magician”](venue_magician_checklist.md)
+ 9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md)
+ 10.[Community volonteer “champion”](community_volonteer_champion_checklist.md)
 
 Do you want to build *open* cloud applications, learn how by hosting your own OpenStack #CloudAppHack for your community.
 Click on the brochure below to read more:
