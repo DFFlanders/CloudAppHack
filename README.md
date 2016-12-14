@@ -4,10 +4,10 @@ This repository is a collection of everything you will need to run a cloud app h
 
  - [x] Brochure (overview) of running a 'Cloud Application Hackathon'
  - [x] Event Volonteer Roles (below)
+ - [x] Timelines / countdown calendars
  - [ ] Event contract (on request)
+ - [ ] Branding / website / logos / swag kit (on request)
  - [ ] Sponsorship prospectus (on request)
- - [ ] Timelines / countdown calendars
- - [ ] Branding / website / logos
  - [ ] Support from the OpenStack Foundation (as approved the User Committee Working Group)
 
 # What is a 'cloud aplication hackathon' and do I want to help organise one?
@@ -38,8 +38,6 @@ Below are checklists which you can hand out to your fellow community member whom
  9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md) = A compeittion must be judged fairly, transparently and as much in the open as possible so that everyone feels it was a good competition. 
  10. [Community volonteer “champion”](community_volonteer_champion_checklist.md) = hackathons have an amazing way of creating communities of developers who want to meet up and do things after the event.  Have someone who is already in the local community ready to take on your participants and get them collaborating after the event.
 
-[1]= We love checklists, check out the ["Checklist Manifesto"](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)!
-
 ## Overall Event Calendar
 
 Below is a *suggested* timeline for the milestones you will want to tick off on the road to running a successful hackathon.
@@ -50,3 +48,5 @@ Below is a *suggested* timeline for the milestones you will want to tick off on 
  - [x] 1 month out: see below example calendar
 
 ![calendar showing the last month of activity in build up to the main cloud app hackathon](/countdown-calendar-cloudapphack.png)
+
+[1]= We love checklists, check out the ["Checklist Manifesto"](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)!
