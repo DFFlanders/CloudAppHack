@@ -9,9 +9,21 @@ This repository is a collection of everything you will need to run a hackathon w
  - [ ] Timelines / countdown calendars
  - [ ] Branding / website / logos
  - [ ] Support from the OpenStack Foundation (as approved the User Committee Working Group)
+ 
+# 
+
+Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
+
+Click on the brochure below to learn more:
+
+[![Read this quick brochure before you get started in organising your hackathon](https://pbs.twimg.com/media/CkFOue5WYAAB1pK.jpg)](https://docs.google.com/presentation/d/1dK7d3A2pQ9iv3VxoVvAF1x4m7d10cZUc-q4F2e95GgQ/pub?start=true&loop=true&delayms=3000)
+
+If (after reading the above brochure), you are still keen on progressing, please contact [OpenStack's Cloud Application Hackathon Working Group](https://wiki.openstack.org/wiki/CloudAppHack-WG), which is filled with lovely people who have themselves run hackathons and can help provide advice, guidance, examples and mentoship to help you get going!  PS these checklists make for a great way to have a conversation with the AppHack-WG members and their individual expertises.
 
 ## Event Volonteer Roles
 You'll need a minimum of ten volonteers to run a quality hackathon event.  Below is a list of those roles and checklists of the things those volonteers will need to achieved for an brillaint clud application hacakthon!
+
+[![the community members you'll want to recruit to help run an excellent cloud application hackathon](/event-org-structure-cloudapphack.png)]
 
 This repository is a set of checklists for the team of people who will organise the open cloud application hackathon for your local community[1]:
 
@@ -25,13 +37,5 @@ This repository is a set of checklists for the team of people who will organise 
  8. [Logistics (venue) “magician”](venue_magician_checklist.md) = An event is secretly judges by everyone based on its location, ambiance, food, fun and other logistical activities.  
  9. [Lead judge (and advocacy) “chair”](judges_chair_checklist.md) = A compeittion must be judged fairly, transparently and as much in the open as possible so that everyone feels it was a good competition. 
  10. [Community volonteer “champion”](community_volonteer_champion_checklist.md) = hackathons have an amazing way of creating communities of devleopers who want to meet up and do things after the event.  Have someone who is already in the community ready to take on your participants and get them collaborating after the event.
-
-Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
-
-Click on the brochure below to learn more:
-
-[![Read this quick brochure before you get started in organising your hackathon](https://pbs.twimg.com/media/CkFOue5WYAAB1pK.jpg)](https://docs.google.com/presentation/d/1dK7d3A2pQ9iv3VxoVvAF1x4m7d10cZUc-q4F2e95GgQ/pub?start=true&loop=true&delayms=3000)
-
-If (after reading the above brochure), you are still keen on progressing, please contact [OpenStack's Cloud Application Hackathon Working Group](https://wiki.openstack.org/wiki/CloudAppHack-WG), which is filled with lovely people who have themselves run hackathons and can help provide advice, guidance, examples and mentoship to help you get going!  PS these checklists make for a great way to have a conversation with the AppHack-WG members and their individual expertises.
 
 [1]= We love checklists, check out the ["Checklist Manifesto"](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)!
