@@ -10,6 +10,8 @@ This repository is a collection of everything you will need to run a cloud app h
  - [ ] Branding / website / logos
  - [ ] Support from the OpenStack Foundation (as approved the User Committee Working Group)
 
+# What is a 'cloud aplication hackathon' and do I want to help organise one?
+
 Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
 
 Click on the brochure below to learn more:
@@ -37,3 +39,14 @@ Below are checklists which you can hand out to your fellow community member whom
  10. [Community volonteer “champion”](community_volonteer_champion_checklist.md) = hackathons have an amazing way of creating communities of developers who want to meet up and do things after the event.  Have someone who is already in the local community ready to take on your participants and get them collaborating after the event.
 
 [1]= We love checklists, check out the ["Checklist Manifesto"](https://en.wikipedia.org/wiki/The_Checklist_Manifesto)!
+
+## Overall Event Calendar
+
+Below is a *suggested* timeline for the milestones you will want to tick off on the road to running a successful hackathon.
+
+ - [x] 6 months out: dates agreed and venue booked.
+ - [x] 3 months out: 10x event organisers recruited
+ - [x] 2 months out: branding, marketting and sponsorship agreed.
+ - [x] 1 month out: see below example calendar
+
+![calendar showing the last month of activity in build up to the main cloud app hackathon](/countdown-calendar-cloudapphack.png)
