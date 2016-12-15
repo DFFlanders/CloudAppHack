@@ -12,7 +12,7 @@ This repository is a collection of everything you will need to run a cloud app h
 
 # What is a 'cloud aplication hackathon' and do I want to help organise one?
 
-Do you want to build cloud applications, learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
+Do you want to your community to learn how build cloud applications? Learn how by hosting your own OpenStack 'Cloud Application Hackathon' for your community.
 
 Click on the brochure below to learn more:
 
