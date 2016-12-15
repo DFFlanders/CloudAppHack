@@ -2,10 +2,10 @@
 
 This repository is a collection of everything you will need to run a cloud app hackathon which upholds the values of an open community.  In this repository you will find the follow guides for running a hackathon:
 
- - [x] Brochure (overview) of running a 'Cloud Application Hackathon'
- - [x] Event Volonteer Roles (below)
- - [x] Timelines / countdown calendars
- - [ ] Event contract (on request)
+ - [x] Brochure (overview) of running a 'Cloud Application Hackathon' (below)
+ - [x] Event volonteer roles (below)
+ - [x] Timelines / countdown calendars (below)
+ - [ ] Event contract examples (on request)
  - [ ] Branding / website / logos / swag kit (on request)
  - [ ] Sponsorship prospectus (on request)
  - [ ] Support from the OpenStack Foundation (as approved the User Committee Working Group)
