@@ -1,29 +1,31 @@
-# Description Pre-Hackathon Application Trainning Coordinator
+# Description Pre-Hackathon Training Coordinator
 
-Your objective as the "pre-training coordinator" (if you choose to accept them...[1]):
- * Recruit teams in the build-up to the hackathon, encouraging well rounded teams including CEO, CTO, AppDev, DevOpps, UX, CMO, etc.
- * setup 3-6 pre-training activities which will help teams practice the new open cloud app dev skills they will need to compete in the hackathon, i.e. every wednesday night for a month meet at the local pub to learn: rkt containers... sdk shade for openstack... swift storage rest apis... node.js for cloud mobile apps... etc.
+Your objective as the "pre-training coordinator":
+
+ * Recruit teams in the build-up to the hackathon, encouraging well rounded teams with different skillsets.
+ * Setup pre-training activities (the month prior to the event) which will help teams practice the new open cloud app dev skills they will need to compete in the hackathon, i.e. every wednesday night for a month meet at the local pub to learn foobar.
  * Encourage individuals (who do not have a team) to either join a team or create a new team.  Plan "ice-breaker" activities as part of the pre-training events.
+ * Bonus points: collect feedback from the teams on what other training they would like to have for future hackathons.
 
-You will be working closely with the "team registration monarch" who will also be looking to figure out how best to enable individuals to find a team!  This very important as the OpenStack community is really big on inclusion!  Diversity of opinions can be an amazing thing if you can find the right team combination.
+You will be working closely with the ["team registration monarch"](/team_registration_monarch_checklist.md) who will also be looking to figure out how best to enable individuals to find a team.  The OpenStack community loves inclusion.  Diversity of opinions can be an amazing thing if you can find the right team combination.
 
 # Checklists for Pre-Training Coordinator
 
 ## Pre Event Checklist
 
-- [X] Meet with a representative of the CloudAppHack-WG and read through a checklist for what the role entails.
-- [ ] Meet with an OpenStack Foundation staff member to get your channel setup on slack
-- [ ] foobar...
+- [] Work with the OpenStack Foundation to have various face-to-face trainings occur (x3-6) a month in advance of the hackathon so participants can prepare to compete in the hackathon.
+- [ ] Enable people to meet/network at the face-to-face trainings so they can form teams to participate in the hackathon.
+- [ ] Send online training material to participants so they are aware of the skills they will need to participate in the hackathon.
 
 ## Event (during) Checklist
 
-- [ ] foobar...
-- [ ] etc.
+- [ ] Work with the ['mentors wrangler'](mentors_wrangler_checklist.md) to have mentors in attendance during the hackathon to help act as subsitute team members who can help teams when they get stuck with the various technologies they will need.
+- [ ] Go around chatting with the participants asking which training helped and what more training they would have preferred (add the advice to this repository!).
 
 ## Post Event Checklist
 
-- [ ] foobar...
-- [ ] est.
+- [ ] Thank all the trainers for their hard work and let them know what training was successful and why.
+- [ ] Provide feedback in this repository so future hackathon event planers can benefit from your knowledge.
 
 # Additional resources and help
 
