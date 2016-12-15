@@ -1,6 +1,6 @@
-# Welcome to #CloudAppHack
+# Welcome to the Cloud Application Hackathon Event Kit (aka a cloud app hack guidebook)
 
-This repository is a collection of everything you will need to run a cloud app hackathon which upholds the values of an open community.  In this repository you will find the follow guides for running an open cloud app hackathon:
+This repository is a collection of everything you will need to run a cloud app hackathon which upholds the values of an open community.  In this repository you will find the follow guides for running a hackathon:
 
  - [x] Brochure (overview) of running a 'Cloud Application Hackathon'
  - [x] Event Volonteer Roles (below)
